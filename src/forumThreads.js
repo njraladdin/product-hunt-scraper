@@ -310,7 +310,7 @@ const forumThreads = {
    * @param {string} [options.outputFile] - Path to save the formatted data
    * @returns {Promise<Object>} - Formatted threads data
    */
-  async fetchAndFormatThreads(productSlug, options = {}) {
+  async fetchAndFormatThreadsWithComments(productSlug, options = {}) {
     try {
       // Fetch threads
       let threads = await this.fetchThreads(productSlug, {
@@ -372,7 +372,7 @@ module.exports = forumThreads;
 
 const test = async () => {
     // Test the new method by fetching and formatting threads data
-    const formattedData = await forumThreads.fetchAndFormatThreads('lovable', { 
+    const formattedData = await forumThreads.fetchAndFormatThreadsWithComments('lovable', { 
       limit: 5, 
       commentsLimit: 10,
       outputFile: './test_output/formatted_threads.json'

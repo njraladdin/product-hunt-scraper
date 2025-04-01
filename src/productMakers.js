@@ -23,11 +23,13 @@ const productMakers = {
   },
 
   /**
-   * Fetch makers for a specific product
+   * Fetch makers for a specific product and correlate their activity from launches and threads.
    * @param {string} productSlug - The product slug (e.g., "lovable")
-   * @returns {Promise<Array|null>} - Array of maker objects or null if not found/error
+   * @param {Object} launchesData - Data object containing product launches and their comments.
+   * @param {Object} threadsData - Data object containing forum threads and their comments.
+   * @returns {Promise<Array|null>} - Array of maker objects with correlated activity or null if not found/error
    */
-  async fetchMakers(productSlug) {
+  async fetchMakers(productSlug, launchesData, threadsData) {
     try {
       console.log(`
 ===== FETCHING MAKERS FOR: ${productSlug} =====`);
@@ -54,9 +56,11 @@ const productMakers = {
       const response = await axios.post(this.baseUrl, payload, { headers: specificHeaders });
 
       if (response.data && response.data.data && response.data.data.product && response.data.data.product.makers) {
-        const makers = this._parseMakers(response.data.data.product.makers);
+        const makersRawData = response.data.data.product.makers;
+        // Pass launchesData and threadsData to _parseMakers
+        const makers = this._parseMakers(makersRawData, launchesData, threadsData);
         console.log(`
-===== SUCCESSFULLY FETCHED ${makers.length} MAKERS FOR: ${productSlug} =====
+===== SUCCESSFULLY FETCHED AND CORRELATED ${makers.length} MAKERS FOR: ${productSlug} =====
 `);
         return makers;
       } else {
@@ -75,15 +79,128 @@ const productMakers = {
   },
 
   /**
-   * Parse the maker details from the API response
+   * Parse the maker details from the API response and correlate activity.
    * @private
-   * @param {Object} makersData - The makers connection object from the API response
-   * @returns {Array} - Parsed list of makers
+   * @param {Object} makersData - The makers connection object from the API response.
+   * @param {Object} launchesData - Data object containing product launches and their comments.
+   * @param {Object} threadsData - Data object containing forum threads and their comments.
+   * @returns {Array} - Parsed list of makers with correlated activity.
    */
-  _parseMakers(makersData) {
+  _parseMakers(makersData, launchesData, threadsData) {
     if (!makersData || !makersData.edges) {
       return [];
     }
+
+    // Pre-process comments for easier lookup by author ID
+    const commentsByAuthor = {};
+
+    // Process launch comments
+    if (launchesData && launchesData.launches) {
+      launchesData.launches.forEach(launch => {
+        if (launch.comments) {
+          launch.comments.forEach(comment => {
+            const authorId = comment.author?.id;
+            if (authorId) {
+              if (!commentsByAuthor[authorId]) {
+                commentsByAuthor[authorId] = { launchComments: [], forumComments: [], forumThreadsAuthored: [] };
+              }
+              commentsByAuthor[authorId].launchComments.push({
+                commentId: comment.id,
+                launchId: launch.id,
+                launchName: launch.name,
+                body: comment.body, // Keep it simple for now
+                createdAt: comment.createdAt,
+                votesCount: comment.votesCount,
+                isSticky: comment.isSticky
+              });
+            }
+            // Process replies within launch comments
+            if (comment.replies) {
+              comment.replies.forEach(reply => {
+                  const replyAuthorId = reply.author?.id;
+                  if (replyAuthorId) {
+                      if (!commentsByAuthor[replyAuthorId]) {
+                          commentsByAuthor[replyAuthorId] = { launchComments: [], forumComments: [], forumThreadsAuthored: [] };
+                      }
+                      // Add reply details, indicating it's a reply
+                      commentsByAuthor[replyAuthorId].launchComments.push({
+                          commentId: reply.id,
+                          parentId: reply.parentId,
+                          launchId: launch.id,
+                          launchName: launch.name,
+                          body: reply.body,
+                          createdAt: reply.createdAt,
+                          votesCount: reply.votesCount,
+                          isReply: true
+                      });
+                  }
+              });
+            }
+          });
+        }
+      });
+    }
+
+    // Process forum thread comments
+    if (threadsData && threadsData.threads) {
+      threadsData.threads.forEach(thread => {
+        if (thread.comments) {
+          thread.comments.forEach(comment => {
+            const authorId = comment.authorDetails?.id;
+            if (authorId) {
+              if (!commentsByAuthor[authorId]) {
+                commentsByAuthor[authorId] = { launchComments: [], forumComments: [], forumThreadsAuthored: [] };
+              }
+              commentsByAuthor[authorId].forumComments.push({
+                commentId: comment.id,
+                threadId: thread.id,
+                threadTitle: thread.title,
+                content: comment.content,
+                date: comment.date,
+                upvotesCount: comment.upvotesCount,
+                isReply: false // Assuming top-level comment
+              });
+            }
+            // Process replies within forum comments
+            if (comment.replies) {
+               comment.replies.forEach(reply => {
+                  const replyAuthorId = reply.authorDetails?.id;
+                   if (replyAuthorId) {
+                       if (!commentsByAuthor[replyAuthorId]) {
+                           commentsByAuthor[replyAuthorId] = { launchComments: [], forumComments: [], forumThreadsAuthored: [] };
+                       }
+                       commentsByAuthor[replyAuthorId].forumComments.push({
+                           commentId: reply.id,
+                           parentId: reply.parentId, // Assuming parentId exists
+                           threadId: thread.id,
+                           threadTitle: thread.title,
+                           content: reply.content,
+                           date: reply.date,
+                           upvotesCount: reply.upvotesCount,
+                           isReply: true
+                       });
+                   }
+               });
+            }
+          });
+        }
+         // Process authored forum threads
+         const threadAuthorId = thread.authorDetails?.id;
+         if (threadAuthorId) {
+             if (!commentsByAuthor[threadAuthorId]) {
+                 commentsByAuthor[threadAuthorId] = { launchComments: [], forumComments: [], forumThreadsAuthored: [] };
+             }
+             commentsByAuthor[threadAuthorId].forumThreadsAuthored.push({
+                 threadId: thread.id,
+                 title: thread.title,
+                 date: thread.date,
+                 upvotesCount: thread.upvotesCount,
+                 commentsCount: thread.commentsCount
+             });
+         }
+      });
+    }
+
 
     return makersData.edges.map(edge => {
       const maker = edge.node;
@@ -106,6 +223,10 @@ const productMakers = {
         followersCount: maker.followersCount || 0,
         madePostsCount: madePosts.length,
         madePosts: madePosts,
+        // Add correlated activity
+        launchComments: commentsByAuthor[maker.id]?.launchComments || [],
+        forumComments: commentsByAuthor[maker.id]?.forumComments || [],
+        forumThreadsAuthored: commentsByAuthor[maker.id]?.forumThreadsAuthored || [],
       };
     }).filter(Boolean); // Filter out any null entries
   }
@@ -113,14 +234,26 @@ const productMakers = {
 
 module.exports = productMakers;
 
-// // Optional: Simple test case
+/* // Remove or comment out the direct test call
 const test = async () => {
-  const makers = await productMakers.fetchMakers('lovable');
+  // Need mock data or actual fetched data for launches and threads to test correlation
+  const mockLaunchesData = { launchCount: 0, launches: [] };
+  const mockThreadsData = { threadCount: 0, threads: [] };
+  const makers = await productMakers.fetchMakers('lovable', mockLaunchesData, mockThreadsData);
   if (makers) {
-    console.log(JSON.stringify(makers, null, 2));
+    // console.log(JSON.stringify(makers, null, 2)); // Log the full output
+     console.log(`Found ${makers.length} makers.`);
+     // Example: Log details for the first maker if exists
+     if (makers.length > 0) {
+       console.log(`\nFirst Maker (${makers[0].name}):`);
+       console.log(`  Launch Comments: ${makers[0].launchComments.length}`);
+       console.log(`  Forum Comments: ${makers[0].forumComments.length}`);
+       console.log(`  Forum Threads Authored: ${makers[0].forumThreadsAuthored.length}`);
+     }
   } else {
     console.log('Failed to fetch makers.');
   }
 };
 
-test(); 
+test();
+*/ 

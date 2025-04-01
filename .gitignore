@@ -95,3 +95,10 @@ dist
 # Test output directories
 test_output/
 
+output/
+
+# Ignore all files in the output directory
+output/*
+
+# Ignore all files in the output directory
+output/*
