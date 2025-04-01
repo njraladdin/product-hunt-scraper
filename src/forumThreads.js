@@ -44,7 +44,7 @@ const forumThreads = {
       this.headers.referer = `https://www.producthunt.com/products/${productSlug}/forums`;
       this.headers['x-ph-referer'] = `https://www.producthunt.com/products/${productSlug}`;
       
-      const { limit = null, commentsLimit = 10 } = options;
+      const { limit = null, commentsLimit = 100 } = options;
       
       let allThreads = [];
       let rawResponses = [];
@@ -248,13 +248,136 @@ const forumThreads = {
         path
       };
     });
+  },
+
+  /**
+   * Format thread data according to project requirements
+   * @param {Array} threads - Array of raw thread objects 
+   * @param {string} productSlug - The product slug
+   * @returns {Object} - Formatted threads data
+   */
+  formatThreadsData(threads, productSlug) {
+    if (!threads || !Array.isArray(threads) || threads.length === 0) {
+      return { product: productSlug, threads: [] };
+    }
+
+    const formattedThreads = threads.map(thread => {
+      // Format the date in YYYY-MM-DD format if possible
+      let formattedDate = thread.date;
+      try {
+        const dateObj = new Date(thread.date);
+        if (!isNaN(dateObj.getTime())) {
+          formattedDate = dateObj.toISOString().split('T')[0]; // YYYY-MM-DD
+        }
+      } catch (e) {
+        // Keep original date format if parsing fails
+      }
+
+      // Format the thread according to requirements
+      return {
+        title: thread.title,
+        author: thread.author.username,
+        authorDetails: {
+          id: thread.author.id,
+          name: thread.author.name,
+          url: thread.author.url,
+          avatarUrl: thread.author.avatarUrl
+        },
+        date: formattedDate,
+        isFeatured: thread.isFeatured,
+        upvotesCount: thread.upvotesCount,
+        commentsCount: thread.commentsCount,
+        url: thread.url,
+        description: thread.description,
+        id: thread.id,
+        comments: thread.comments || [] // Will be populated by threadComments module
+      };
+    });
+
+    return {
+      product: productSlug,
+      threadCount: formattedThreads.length,
+      threads: formattedThreads
+    };
+  },
+
+  /**
+   * Fetch threads and format them according to project requirements
+   * @param {string} productSlug - The product slug (e.g., "lovable")
+   * @param {Object} options - Options for fetching threads
+   * @param {number} [options.limit] - Maximum number of threads to fetch (null for all)
+   * @param {number} [options.commentsLimit] - Maximum number of comments to fetch per thread (null for all)
+   * @param {string} [options.outputFile] - Path to save the formatted data
+   * @returns {Promise<Object>} - Formatted threads data
+   */
+  async fetchAndFormatThreads(productSlug, options = {}) {
+    try {
+      // Fetch threads
+      let threads = await this.fetchThreads(productSlug, {
+        limit: options.limit,
+        commentsLimit: options.commentsLimit
+      });
+      
+      // Create a map of thread slugs to comments
+      const threadCommentsMap = {};
+      
+      // If we have threads and want to include comments
+      if (threads.length > 0 && options.commentsLimit !== 0) {
+        console.log(`\n===== FETCHING COMMENTS FOR ${threads.length} THREADS =====\n`);
+        
+        // Fetch comments for all threads
+        const commentsResult = await threadComments.fetchCommentsForThreads(
+          productSlug, 
+          threads, 
+          { 
+            limit: options.commentsLimit || 100,
+            outputDir: path.join(process.cwd(), 'test_output')
+          }
+        );
+        
+        // Map the comments to their respective threads
+        if (commentsResult && commentsResult.threadsWithComments) {
+          Object.keys(commentsResult.threadsWithComments).forEach(threadSlug => {
+            threadCommentsMap[threadSlug] = commentsResult.threadsWithComments[threadSlug].parsedComments || [];
+          });
+        }
+        
+        // Update each thread with its formatted comments
+        threads = threadComments.updateThreadsWithComments(threads, threadCommentsMap);
+      }
+      
+      // Format the threads data
+      const formattedData = this.formatThreadsData(threads, productSlug);
+      
+      // Save formatted data if outputFile is specified
+      if (options.outputFile) {
+        const outputDir = path.dirname(options.outputFile);
+        if (!fs.existsSync(outputDir)) {
+          fs.mkdirSync(outputDir, { recursive: true });
+        }
+        
+        fs.writeFileSync(options.outputFile, JSON.stringify(formattedData, null, 2));
+        console.log(`\n===== SAVED FORMATTED DATA TO: ${options.outputFile} =====\n`);
+      }
+      
+      return formattedData;
+    } catch (error) {
+      console.error('ERROR FORMATTING THREAD DATA:', error.message);
+      throw error;
+    }
   }
 };
 
 module.exports = forumThreads; 
 
 const test = async () => {
-    const threads = await forumThreads.fetchThreads('lovable', { limit: 5 });
+    // Test the new method by fetching and formatting threads data
+    const formattedData = await forumThreads.fetchAndFormatThreads('lovable', { 
+      limit: 5, 
+      commentsLimit: 10,
+      outputFile: './test_output/formatted_threads.json'
+    });
+    console.log(`Formatted ${formattedData.threadCount} threads for ${formattedData.product}`);
 }
 
 test();

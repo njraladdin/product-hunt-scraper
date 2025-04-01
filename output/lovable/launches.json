@@ -1,0 +1,3771 @@
+{
+  "product": "lovable",
+  "launchCount": 4,
+  "launches": [
+    {
+      "id": "867792",
+      "name": "Lovable Visual Edits",
+      "slug": "lovable-visual-edits",
+      "tagline": "Faster and more precise edits",
+      "createdAt": "2025-02-13T00:01:00-08:00",
+      "featuredAt": "2025-02-13T00:01:00-08:00",
+      "updatedAt": "2025-03-31T11:24:57-07:00",
+      "thumbnailImageUuid": "c79e485b-b7b8-4273-ae22-11492d9bf7f8.png",
+      "dailyRank": "2",
+      "weeklyRank": "6",
+      "monthlyRank": "15",
+      "votesCount": 1012,
+      "commentsCount": 74,
+      "latestScore": 930,
+      "launchDayScore": 914,
+      "shortenedUrl": "/r/p/867792",
+      "badges": [
+        {
+          "position": 2,
+          "period": "daily",
+          "date": "2025-02-13"
+        }
+      ],
+      "product": {
+        "id": "566141",
+        "isSubscribed": false
+      },
+      "comments": [
+        {
+          "id": "4387749",
+          "body": "<p>Hey PH community! 👋 Anton here, creator of Lovable<br><br>We've received lots of feedback that people love the speed of AI, but crave the control over granular changes that design tools offer.<br><br>We've fixed this.</p><p>Introducing Visual Edits to Lovable.<br><br><strong>What's new?</strong>✨<br><br>Changes to your Lovable projects could previously be made through prompting our AI, or committing code changes directly to Github.<br><br>Now, you can directly change text or components in the app interface. Edits there are instant and do not require a prompt to Lovable.<br><br><strong>How to use Visual Edits in Lovable:</strong><br>1. In the editor, you will then see a new button called \"Edit\" in the prompt box<br>2. Click \"Edit\" and select the element you want to change</p><p>3. Edit the element with any of our controls - or by applying custom Tailwind classes<br><br>Whether you are a designer, a developer, or have another background -- We think that this is the first step towards an entirely new way of building software.<br></p><p>This is of course just the beginning and we're already envisioning countless additions to the MVP. Would love your feedback &amp; hear what you'd love to see added!<br><br>Anton</p>",
+          "bodyHtml": "<p>Hey PH community! 👋 Anton here, creator of Lovable<br><br>We've received lots of feedback that people love the speed of AI, but crave the control over granular changes that design tools offer.<br><br>We've fixed this.</p><p>Introducing Visual Edits to Lovable.<br><br><strong>What's new?</strong>✨<br><br>Changes to your Lovable projects could previously be made through prompting our AI, or committing code changes directly to Github.<br><br>Now, you can directly change text or components in the app interface. Edits there are instant and do not require a prompt to Lovable.<br><br><strong>How to use Visual Edits in Lovable:</strong><br>1. In the editor, you will then see a new button called \"Edit\" in the prompt box<br>2. Click \"Edit\" and select the element you want to change</p><p>3. Edit the element with any of our controls - or by applying custom Tailwind classes<br><br>Whether you are a designer, a developer, or have another background -- We think that this is the first step towards an entirely new way of building software.<br></p><p>This is of course just the beginning and we're already envisioning countless additions to the MVP. Would love your feedback &amp; hear what you'd love to see added!<br><br>Anton</p>",
+          "createdAt": "2025-02-11T06:11:43-08:00",
+          "votesCount": 34,
+          "isPinned": false,
+          "isSticky": true,
+          "repliesCount": 7,
+          "author": {
+            "id": "2713059",
+            "name": "Anton Osika",
+            "username": "antonosika",
+            "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+            "product": {
+              "id": "566141",
+              "name": "Lovable",
+              "slug": "lovable"
+            }
+          },
+          "badges": [
+            "maker"
+          ],
+          "url": "https://www.producthunt.com/products/lovable?comment=4387749#lovable-visual-edits",
+          "path": "/products/lovable?comment=4387749#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "lovable-visual-edits",
+            "name": "Lovable Visual Edits"
+          },
+          "replies": [
+            {
+              "id": "4394888",
+              "parentId": "4387749",
+              "body": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;you guys are delivering like crazy, great to see! </p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;you guys are delivering like crazy, great to see! </p>",
+              "createdAt": "2025-02-13T00:39:29-08:00",
+              "votesCount": 11,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "7651098",
+                "name": "Manu Hortet",
+                "username": "manuhortet",
+                "avatarUrl": "https://ph-avatars.imgix.net/7651098/aa46fed3-7ef8-4b04-9b85-dfe576cb57cd.jpeg",
+                "product": {
+                  "id": "610321",
+                  "name": "Producta",
+                  "slug": "producta"
+                }
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4394888#lovable-visual-edits",
+              "path": "/products/lovable?comment=4394888#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "lovable-visual-edits",
+                "name": "Lovable Visual Edits"
+              }
+            },
+            {
+              "id": "4395096",
+              "parentId": "4387749",
+              "body": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;This is awesome! thanks!</p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;This is awesome! thanks!</p>",
+              "createdAt": "2025-02-13T01:59:35-08:00",
+              "votesCount": 5,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2209272",
+                "name": "Pedro Codina",
+                "username": "pedrocodina",
+                "avatarUrl": "https://ph-avatars.imgix.net/2209272/original.jpeg",
+                "product": {
+                  "id": "112221",
+                  "name": "Bravo Studio",
+                  "slug": "bravo-studio"
+                }
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4395096#lovable-visual-edits",
+              "path": "/products/lovable?comment=4395096#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "lovable-visual-edits",
+                "name": "Lovable Visual Edits"
+              }
+            },
+            {
+              "id": "4396416",
+              "parentId": "4387749",
+              "body": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;You're killing it! I've come to love <strong>Lovable! </strong>Looking forward to watching your journey :)</p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;You're killing it! I've come to love <strong>Lovable! </strong>Looking forward to watching your journey :)</p>",
+              "createdAt": "2025-02-13T09:14:31-08:00",
+              "votesCount": 2,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "1193068",
+                "name": "Kenny Hawkins",
+                "username": "kenny_hawkins",
+                "avatarUrl": "https://ph-avatars.imgix.net/1193068/52390e6c-2570-4db2-9034-a439f7b137f3.jpeg",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4396416#lovable-visual-edits",
+              "path": "/products/lovable?comment=4396416#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "lovable-visual-edits",
+                "name": "Lovable Visual Edits"
+              }
+            },
+            {
+              "id": "4397134",
+              "parentId": "4387749",
+              "body": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;Good stuff. I like the way you're shipping new features. I can't compare <a href=\"https://www.producthunt.com/products/lovable\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@Lovable</a> to any other platform as per now.</p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;Good stuff. I like the way you're shipping new features. I can't compare <a href=\"https://www.producthunt.com/products/lovable\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@Lovable</a> to any other platform as per now.</p>",
+              "createdAt": "2025-02-13T14:23:13-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2993210",
+                "name": "Edwin Miano",
+                "username": "edwin_miano",
+                "avatarUrl": "https://ph-avatars.imgix.net/2993210/original.jpeg",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4397134#lovable-visual-edits",
+              "path": "/products/lovable?comment=4397134#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "lovable-visual-edits",
+                "name": "Lovable Visual Edits"
+              }
+            },
+            {
+              "id": "4397161",
+              "parentId": "4387749",
+              "body": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;awesome!</p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;awesome!</p>",
+              "createdAt": "2025-02-13T14:58:11-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "8057840",
+                "name": "Craig Cannon",
+                "username": "craig_cannon",
+                "avatarUrl": "",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4397161#lovable-visual-edits",
+              "path": "/products/lovable?comment=4397161#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "lovable-visual-edits",
+                "name": "Lovable Visual Edits"
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4395063",
+          "body": "<p>Been following Lovable since day one - loving this Figma-style editing feature! Quick wishlist: style presets for quick formatting and an undo/redo timeline would be <em>chef's kiss</em> ✨</p>",
+          "bodyHtml": "<p>Been following Lovable since day one - loving this Figma-style editing feature! Quick wishlist: style presets for quick formatting and an undo/redo timeline would be <em>chef's kiss</em> ✨</p>",
+          "createdAt": "2025-02-13T01:42:34-08:00",
+          "votesCount": 6,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "7798625",
+            "name": "Jona from ProductRadar",
+            "username": "zihui_zhan",
+            "avatarUrl": "https://ph-avatars.imgix.net/7798625/867f7ee0-cfa5-47c7-8f83-e3c9fb789a61.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4395063#lovable-visual-edits",
+          "path": "/products/lovable?comment=4395063#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "lovable-visual-edits",
+            "name": "Lovable Visual Edits"
+          },
+          "replies": [
+            {
+              "id": "4396125",
+              "parentId": "4395063",
+              "body": "<p><a href=\"https://www.producthunt.com/@zihui_zhan\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@zihui_zhan</a>&nbsp;May or may not already be in the works!</p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@zihui_zhan\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@zihui_zhan</a>&nbsp;May or may not already be in the works!</p>",
+              "createdAt": "2025-02-13T07:44:02-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4396125#lovable-visual-edits",
+              "path": "/products/lovable?comment=4396125#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "lovable-visual-edits",
+                "name": "Lovable Visual Edits"
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4394804",
+          "body": "<p>Lovable has taken a big step toward being simpler and more user-friendly. Really looking forward to its future development. Congrats! </p>",
+          "bodyHtml": "<p>Lovable has taken a big step toward being simpler and more user-friendly. Really looking forward to its future development. Congrats! </p>",
+          "createdAt": "2025-02-13T00:16:24-08:00",
+          "votesCount": 3,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "7239873",
+            "name": "Zhiqi Shi",
+            "username": "zhiqi_shi",
+            "avatarUrl": "https://ph-avatars.imgix.net/7239873/bafc1ea9-2b57-4455-bdb1-75c451aff343.png",
+            "product": {
+              "id": "801624",
+              "name": "Recap",
+              "slug": "recap"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4394804#lovable-visual-edits",
+          "path": "/products/lovable?comment=4394804#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "lovable-visual-edits",
+            "name": "Lovable Visual Edits"
+          },
+          "replies": [
+            {
+              "id": "4396127",
+              "parentId": "4394804",
+              "body": "<p><a href=\"https://www.producthunt.com/@zhiqi_shi\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@zhiqi_shi</a>&nbsp;Thanks a lot! Please share feedback and suggestions whenever they come to mind</p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@zhiqi_shi\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@zhiqi_shi</a>&nbsp;Thanks a lot! Please share feedback and suggestions whenever they come to mind</p>",
+              "createdAt": "2025-02-13T07:44:32-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4396127#lovable-visual-edits",
+              "path": "/products/lovable?comment=4396127#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "lovable-visual-edits",
+                "name": "Lovable Visual Edits"
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4394809",
+          "body": "<p>does Lovable Visual Edits support <strong>collaborative editing</strong> in real-time, similar to Figma or Webflow?</p>",
+          "bodyHtml": "<p>does Lovable Visual Edits support <strong>collaborative editing</strong> in real-time, similar to Figma or Webflow?</p>",
+          "createdAt": "2025-02-13T00:17:20-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "3830504",
+            "name": "Hamza Afzal Butt",
+            "username": "hamza_afzal_butt",
+            "avatarUrl": "https://ph-avatars.imgix.net/3830504/e6128254-8a83-4a28-9853-f4287facffa4.gif",
+            "product": {
+              "id": "551791",
+              "name": "Success.ai",
+              "slug": "success-ai"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4394809#lovable-visual-edits",
+          "path": "/products/lovable?comment=4394809#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "lovable-visual-edits",
+            "name": "Lovable Visual Edits"
+          },
+          "replies": [
+            {
+              "id": "4395012",
+              "parentId": "4394809",
+              "body": "<p><a href=\"https://www.producthunt.com/@hamza_afzal_butt\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@hamza_afzal_butt</a>&nbsp;<br>Great question! Collaboration on Lovable is not live yet, but once it is you'll of course use visual edits on shared projects as well. We're still working out how to make that flow super smooth.</p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@hamza_afzal_butt\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@hamza_afzal_butt</a>&nbsp;<br>Great question! Collaboration on Lovable is not live yet, but once it is you'll of course use visual edits on shared projects as well. We're still working out how to make that flow super smooth.</p>",
+              "createdAt": "2025-02-13T01:13:33-08:00",
+              "votesCount": 3,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4395012#lovable-visual-edits",
+              "path": "/products/lovable?comment=4395012#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "lovable-visual-edits",
+                "name": "Lovable Visual Edits"
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4394920",
+          "body": "I’ll be trying this for sure, sounds v cool!",
+          "bodyHtml": "I’ll be trying this for sure, sounds v cool!",
+          "createdAt": "2025-02-13T00:50:31-08:00",
+          "votesCount": 2,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "681085",
+            "name": "Jack",
+            "username": "jack___",
+            "avatarUrl": "https://ph-avatars.imgix.net/681085/c322e376-e595-49a7-9734-8b42301ee0a9.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4394920#lovable-visual-edits",
+          "path": "/products/lovable?comment=4394920#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4395042",
+          "body": "<p>You guys rocks! Sweden gives you douze points </p>",
+          "bodyHtml": "<p>You guys rocks! Sweden gives you douze points </p>",
+          "createdAt": "2025-02-13T01:27:30-08:00",
+          "votesCount": 2,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 2,
+          "author": {
+            "id": "6239468",
+            "name": "Aage Reerslev",
+            "username": "aage_reerslev1",
+            "avatarUrl": "https://ph-avatars.imgix.net/6239468/ef36d6d3-06ca-4b7b-a11f-969fab38bf03.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4395042#lovable-visual-edits",
+          "path": "/products/lovable?comment=4395042#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4396128",
+              "parentId": "4395042",
+              "body": "<p><a href=\"https://www.producthunt.com/@aage_reerslev1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@aage_reerslev1</a>&nbsp;Tack!</p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@aage_reerslev1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@aage_reerslev1</a>&nbsp;Tack!</p>",
+              "createdAt": "2025-02-13T07:44:49-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4396128#lovable-visual-edits",
+              "path": "/products/lovable?comment=4396128#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "",
+                "name": ""
+              }
+            },
+            {
+              "id": "4398142",
+              "parentId": "4395042",
+              "body": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;Hoppas vi får er hjälp på vår launch den 18 februari - och att vi ses på vår <a href=\"https://andsend-launch.confetti.events/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">lanseringsfest</a> :) </p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;Hoppas vi får er hjälp på vår launch den 18 februari - och att vi ses på vår <a href=\"https://andsend-launch.confetti.events/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">lanseringsfest</a> :) </p>",
+              "createdAt": "2025-02-13T23:49:32-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6239468",
+                "name": "Aage Reerslev",
+                "username": "aage_reerslev1",
+                "avatarUrl": "https://ph-avatars.imgix.net/6239468/ef36d6d3-06ca-4b7b-a11f-969fab38bf03.jpeg",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4398142#lovable-visual-edits",
+              "path": "/products/lovable?comment=4398142#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "Mg"
+        },
+        {
+          "id": "4395432",
+          "body": "I think that in just a few releases from now I’m going to buy 10 seats for my team! Such an amazing platform!\n\nI was initially leaning towards Cursor, but what you are doing is insane.",
+          "bodyHtml": "I think that in just a few releases from now I’m going to buy 10 seats for my team! Such an amazing platform!\n\nI was initially leaning towards Cursor, but what you are doing is insane.",
+          "createdAt": "2025-02-13T03:53:56-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "3975246",
+            "name": "Marco Ceruti",
+            "username": "marco_ceruti",
+            "avatarUrl": "https://ph-avatars.imgix.net/3975246/original.png",
+            "product": {
+              "id": "467078",
+              "name": "MeetGeek",
+              "slug": "meetgeek"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4395432#lovable-visual-edits",
+          "path": "/products/lovable?comment=4395432#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4396132",
+              "parentId": "4395432",
+              "body": "<p><a href=\"https://www.producthunt.com/@marco_ceruti\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@marco_ceruti</a>&nbsp;You can use Lovable &amp; Cursor together! Lots of teams that start in Lovable, export the code, and eventually continue in Cursor</p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@marco_ceruti\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@marco_ceruti</a>&nbsp;You can use Lovable &amp; Cursor together! Lots of teams that start in Lovable, export the code, and eventually continue in Cursor</p>",
+              "createdAt": "2025-02-13T07:45:30-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4396132#lovable-visual-edits",
+              "path": "/products/lovable?comment=4396132#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4395494",
+          "body": "<p>Hey Anton, I truly love the idea of building an app in seconds! As a busy entrepreneur, I don't have time to deal with complicated coding.</p><p>Being able to build a lovable app using only a chat interface would save me so much time and hassle. Thanks for making it happen!</p>",
+          "bodyHtml": "<p>Hey Anton, I truly love the idea of building an app in seconds! As a busy entrepreneur, I don't have time to deal with complicated coding.</p><p>Being able to build a lovable app using only a chat interface would save me so much time and hassle. Thanks for making it happen!</p>",
+          "createdAt": "2025-02-13T04:12:24-08:00",
+          "votesCount": 2,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "1453154",
+            "name": "Germán Merlo",
+            "username": "german_merlo1",
+            "avatarUrl": "https://ph-avatars.imgix.net/1453154/6be92066-dd52-4758-8103-eade85f74247.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4395494#lovable-visual-edits",
+          "path": "/products/lovable?comment=4395494#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4395681",
+          "body": "<p>Congrats on the launch! 🚀 Combining AI with Figma-like visual edits is a game-changer. Super excited to see where Lovable goes next!</p>",
+          "bodyHtml": "<p>Congrats on the launch! 🚀 Combining AI with Figma-like visual edits is a game-changer. Super excited to see where Lovable goes next!</p>",
+          "createdAt": "2025-02-13T05:08:21-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "6686043",
+            "name": "Mikita Aliaksandrovich",
+            "username": "mikita_aliaksandrovich",
+            "avatarUrl": "https://ph-avatars.imgix.net/6686043/279dbf9e-345a-4bea-a2b3-6b471602e4fc.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4395681#lovable-visual-edits",
+          "path": "/products/lovable?comment=4395681#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4396135",
+              "parentId": "4395681",
+              "body": "<p><a href=\"https://www.producthunt.com/@mikita_aliaksandrovich\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@mikita_aliaksandrovich</a>&nbsp;So are we, thanks for the love!</p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@mikita_aliaksandrovich\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@mikita_aliaksandrovich</a>&nbsp;So are we, thanks for the love!</p>",
+              "createdAt": "2025-02-13T07:46:03-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4396135#lovable-visual-edits",
+              "path": "/products/lovable?comment=4396135#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4395794",
+          "body": "<p>congrats on the launch! 🎉<br>It’s great that you’re bridging the gap between quick AI-driven changes and more detailed, hands-on tweaks. The ability to instantly adjust text or components without any extra prompts is a big time-saver, especially when fine-tuning design elements.</p>",
+          "bodyHtml": "<p>congrats on the launch! 🎉<br>It’s great that you’re bridging the gap between quick AI-driven changes and more detailed, hands-on tweaks. The ability to instantly adjust text or components without any extra prompts is a big time-saver, especially when fine-tuning design elements.</p>",
+          "createdAt": "2025-02-13T05:38:25-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "514528",
+            "name": "Gabriel L. Manor",
+            "username": "gemanor",
+            "avatarUrl": "https://ph-avatars.imgix.net/514528/61df631b-32c4-411c-bcf4-e904384faad3.jpeg",
+            "product": {
+              "id": "549477",
+              "name": "Permit.io",
+              "slug": "permit-io"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4395794#lovable-visual-edits",
+          "path": "/products/lovable?comment=4395794#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4396313",
+              "parentId": "4395794",
+              "body": "<p><a href=\"https://www.producthunt.com/@gemanor\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@gemanor</a>&nbsp;Hard agree! We're exploring switching between specialist interfaces where they make sense, expect more!</p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@gemanor\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@gemanor</a>&nbsp;Hard agree! We're exploring switching between specialist interfaces where they make sense, expect more!</p>",
+              "createdAt": "2025-02-13T08:54:19-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "997382",
+                "name": "Nad Chishtie",
+                "username": "nadonomy",
+                "avatarUrl": "https://ph-avatars.imgix.net/997382/85c35e8b-d2da-4af5-96c2-343e0c799b07.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4396313#lovable-visual-edits",
+              "path": "/products/lovable?comment=4396313#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4395125",
+          "body": "<p>It took me longer to write the description than it did to generate a response. Impressive!</p>",
+          "bodyHtml": "<p>It took me longer to write the description than it did to generate a response. Impressive!</p>",
+          "createdAt": "2025-02-13T02:19:51-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "7872446",
+            "name": "Michael Vavilov",
+            "username": "michael_vavilov",
+            "avatarUrl": "https://ph-avatars.imgix.net/7872446/e87f229f-9f4b-4fb7-8708-ec88475b374f.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4395125#lovable-visual-edits",
+          "path": "/products/lovable?comment=4395125#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4395443",
+          "body": "<p>Hey <a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> Congratulations! this product <strong>Lovable Visual Edits </strong>seems to target a vertical market really well. It looks useful! I will try it</p>",
+          "bodyHtml": "<p>Hey <a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> Congratulations! this product <strong>Lovable Visual Edits </strong>seems to target a vertical market really well. It looks useful! I will try it</p>",
+          "createdAt": "2025-02-13T03:55:34-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "4605939",
+            "name": "Won Park",
+            "username": "won_park",
+            "avatarUrl": "https://ph-avatars.imgix.net/4605939/original.png",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4395443#lovable-visual-edits",
+          "path": "/products/lovable?comment=4395443#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4396133",
+              "parentId": "4395443",
+              "body": "<p><a href=\"https://www.producthunt.com/@won_park\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@won_park</a>&nbsp;Please do and share feedback!</p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@won_park\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@won_park</a>&nbsp;Please do and share feedback!</p>",
+              "createdAt": "2025-02-13T07:45:42-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4396133#lovable-visual-edits",
+              "path": "/products/lovable?comment=4396133#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4395792",
+          "body": "<p>Ahhhh nothing beats a bit of Lovable - Love to see the updates etc. Anton - Best of luck with this launch, can't wait to use it myself!!</p>",
+          "bodyHtml": "<p>Ahhhh nothing beats a bit of Lovable - Love to see the updates etc. Anton - Best of luck with this launch, can't wait to use it myself!!</p>",
+          "createdAt": "2025-02-13T05:37:22-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "7548002",
+            "name": "Sam @CRANQ",
+            "username": "cranqnow",
+            "avatarUrl": "https://ph-avatars.imgix.net/7548002/38954b96-b735-45cf-a01f-3bc2afed1182.png",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4395792#lovable-visual-edits",
+          "path": "/products/lovable?comment=4395792#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4396012",
+          "body": "<p>Loving the visual edits! It's especially useful for those text edits - makes it a lot easier</p>",
+          "bodyHtml": "<p>Loving the visual edits! It's especially useful for those text edits - makes it a lot easier</p>",
+          "createdAt": "2025-02-13T07:02:03-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "2367545",
+            "name": "Talisha white",
+            "username": "realtalishaw",
+            "avatarUrl": "https://ph-avatars.imgix.net/2367545/c067acfe-9e59-4277-bb66-cdad01501f93.png",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4396012#lovable-visual-edits",
+          "path": "/products/lovable?comment=4396012#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4396032",
+          "body": "<p>That's cool, but i don't see an option to enable Visual edits in the Account Settings, there's only \"Chat modes\"<br></p>",
+          "bodyHtml": "<p>That's cool, but i don't see an option to enable Visual edits in the Account Settings, there's only \"Chat modes\"<br></p>",
+          "createdAt": "2025-02-13T07:10:59-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 2,
+          "author": {
+            "id": "9355",
+            "name": "Vlad Arbatov",
+            "username": "vladzima",
+            "avatarUrl": "https://ph-avatars.imgix.net/9355/89bf60d8-1570-4ef9-a976-2aa35a12907a.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4396032#lovable-visual-edits",
+          "path": "/products/lovable?comment=4396032#lovable-visual-edits",
+          "launchInfo": {
+            "id": "867792",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4396140",
+              "parentId": "4396032",
+              "body": "<p><a href=\"https://www.producthunt.com/@vladzima\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@vladzima</a>&nbsp;Can you try again? We had it behind the Labs flag and just activated it for everyone!</p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@vladzima\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@vladzima</a>&nbsp;Can you try again? We had it behind the Labs flag and just activated it for everyone!</p>",
+              "createdAt": "2025-02-13T07:47:08-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4396140#lovable-visual-edits",
+              "path": "/products/lovable?comment=4396140#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "",
+                "name": ""
+              }
+            },
+            {
+              "id": "4396166",
+              "parentId": "4396032",
+              "body": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;Not there, tried to relogin as well<br></p>",
+              "bodyHtml": "<p><a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;Not there, tried to relogin as well<br></p>",
+              "createdAt": "2025-02-13T07:55:14-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "9355",
+                "name": "Vlad Arbatov",
+                "username": "vladzima",
+                "avatarUrl": "https://ph-avatars.imgix.net/9355/89bf60d8-1570-4ef9-a976-2aa35a12907a.jpeg",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4396166#lovable-visual-edits",
+              "path": "/products/lovable?comment=4396166#lovable-visual-edits",
+              "launchInfo": {
+                "id": "867792",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "Mg"
+        }
+      ],
+      "commentCount": 15
+    },
+    {
+      "id": "856408",
+      "name": "Lovable Launched",
+      "slug": "lovable-launched",
+      "tagline": "Launch and discover new Lovable apps by Lovable",
+      "createdAt": "2025-02-07T00:01:00-08:00",
+      "featuredAt": "2025-02-07T00:01:00-08:00",
+      "updatedAt": "2025-03-31T23:33:18-07:00",
+      "thumbnailImageUuid": "9e98593b-4dc9-4d9e-afb9-0b339e3243c8.jpeg",
+      "dailyRank": "2",
+      "weeklyRank": "13",
+      "monthlyRank": "47",
+      "votesCount": 507,
+      "commentsCount": 20,
+      "latestScore": 531,
+      "launchDayScore": 551,
+      "shortenedUrl": "/r/p/856408",
+      "badges": [
+        {
+          "position": 2,
+          "period": "daily",
+          "date": "2025-02-07"
+        }
+      ],
+      "product": {
+        "id": "566141",
+        "isSubscribed": false
+      },
+      "comments": [
+        {
+          "id": "4376188",
+          "body": "Many people asked how to get their first users to their apps. Lovable built \"Lovable Launched\" to make this easier + it's a place where you can find useful apps built with Lovable.\n\nFun fact: the entire platform was built using Lovable.",
+          "bodyHtml": "Many people asked how to get their first users to their apps. Lovable built \"Lovable Launched\" to make this easier + it's a place where you can find useful apps built with Lovable.\n\nFun fact: the entire platform was built using Lovable.",
+          "createdAt": "2025-02-06T21:24:57-08:00",
+          "votesCount": 7,
+          "isPinned": false,
+          "isSticky": true,
+          "repliesCount": 1,
+          "author": {
+            "id": "84553",
+            "name": "Gabe Perez",
+            "username": "gabe",
+            "avatarUrl": "https://ph-avatars.imgix.net/84553/afd8c28f-5881-4a33-aa3d-9bc02e32c192.jpeg",
+            "product": {
+              "id": "112572",
+              "name": "Product Hunt",
+              "slug": "producthunt"
+            }
+          },
+          "badges": [
+            "hunter"
+          ],
+          "url": "https://www.producthunt.com/products/lovable?comment=4376188#lovable-launched",
+          "path": "/products/lovable?comment=4376188#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "lovable-launched",
+            "name": "Lovable Launched"
+          },
+          "replies": [
+            {
+              "id": "4377774",
+              "parentId": "4376188",
+              "body": "<a href=\"https://www.producthunt.com/@gabe\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@gabe</a> congrats on the launch! love the showcase and it's great for inspirations! next would be a \"LovableHunt launchpad\"!",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@gabe\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@gabe</a> congrats on the launch! love the showcase and it's great for inspirations! next would be a \"LovableHunt launchpad\"!",
+              "createdAt": "2025-02-07T04:48:34-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "7789184",
+                "name": "Alan Chan",
+                "username": "alanchristophx",
+                "avatarUrl": "https://ph-avatars.imgix.net/7789184/0856dfd0-7226-48a9-a0ff-51074381c6f8.jpeg",
+                "product": {
+                  "id": "970212",
+                  "name": "Tanka",
+                  "slug": "tanka"
+                }
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4377774#lovable-launched",
+              "path": "/products/lovable?comment=4377774#lovable-launched",
+              "launchInfo": {
+                "id": "856408",
+                "slug": "lovable-launched",
+                "name": "Lovable Launched"
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4377767",
+          "body": "Amazing work! Can't wrap my head around how you guys managed to not just beat v0.dev on UI but also support the whole stack. Great initiative spreading loveable products!",
+          "bodyHtml": "Amazing work! Can't wrap my head around how you guys managed to not just beat v0.dev on UI but also support the whole stack. Great initiative spreading loveable products!",
+          "createdAt": "2025-02-07T04:46:42-08:00",
+          "votesCount": 4,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "6118235",
+            "name": "Kevin Östlin",
+            "username": "kevos",
+            "avatarUrl": "https://ph-avatars.imgix.net/6118235/28e1ccbf-b23b-484c-a088-c16d4321a28a.png",
+            "product": {
+              "id": "953819",
+              "name": "Andsend",
+              "slug": "andsend"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4377767#lovable-launched",
+          "path": "/products/lovable?comment=4377767#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "lovable-launched",
+            "name": "Lovable Launched"
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4378227",
+          "body": "This is great!  I have launched this SaaS Color Palette Generator <a href=\"https://launched.lovable.dev/saas-color-palette-generator\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://launched.lovable.dev/saa...</a>\nAlso using Lovable to build custom web components to build apps with <a href=\"https://www.bravostudio.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.bravostudio.app</a>\nThank you team!",
+          "bodyHtml": "This is great!  I have launched this SaaS Color Palette Generator <a href=\"https://launched.lovable.dev/saas-color-palette-generator\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://launched.lovable.dev/saa...</a>\nAlso using Lovable to build custom web components to build apps with <a href=\"https://www.bravostudio.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.bravostudio.app</a>\nThank you team!",
+          "createdAt": "2025-02-07T07:26:44-08:00",
+          "votesCount": 2,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "2209272",
+            "name": "Pedro Codina",
+            "username": "pedrocodina",
+            "avatarUrl": "https://ph-avatars.imgix.net/2209272/original.jpeg",
+            "product": {
+              "id": "112221",
+              "name": "Bravo Studio",
+              "slug": "bravo-studio"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4378227#lovable-launched",
+          "path": "/products/lovable?comment=4378227#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "lovable-launched",
+            "name": "Lovable Launched"
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4377665",
+          "body": "Pretty smart way to drive engagement and showcase what Lovable can do!  A competition like this not only helps new apps get visibility but also encourages the community to explore and support each other. Really excited to see what people build!\n\nSending lots of wins to the team :)\n\n<a href=\"https://www.producthunt.com/@gabe\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@gabe</a>",
+          "bodyHtml": "Pretty smart way to drive engagement and showcase what Lovable can do!  A competition like this not only helps new apps get visibility but also encourages the community to explore and support each other. Really excited to see what people build!\n\nSending lots of wins to the team :)\n\n<a href=\"https://www.producthunt.com/@gabe\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@gabe</a>",
+          "createdAt": "2025-02-07T04:10:38-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "7046338",
+            "name": "Shivam Singh",
+            "username": "whatshivamdo",
+            "avatarUrl": "https://ph-avatars.imgix.net/7046338/c1a0c77c-35ae-416b-9de6-adda7842f2f9.png",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4377665#lovable-launched",
+          "path": "/products/lovable?comment=4377665#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "lovable-launched",
+            "name": "Lovable Launched"
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4379585",
+          "body": "Lovable is such a cool name",
+          "bodyHtml": "Lovable is such a cool name",
+          "createdAt": "2025-02-07T18:36:55-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "8083851",
+            "name": "Vill Yu",
+            "username": "vill_kk",
+            "avatarUrl": "https://ph-avatars.imgix.net/8083851/73b9df46-d274-4cf1-b7d7-99aa0b26d205.png",
+            "product": {
+              "id": "1030362",
+              "name": "Chikka.ai",
+              "slug": "chikka-ai"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4379585#lovable-launched",
+          "path": "/products/lovable?comment=4379585#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4377175",
+          "body": "Oh, why did no one think of this before? Let everybody knows your product.  Congratulation on the launch team!",
+          "bodyHtml": "Oh, why did no one think of this before? Let everybody knows your product.  Congratulation on the launch team!",
+          "createdAt": "2025-02-07T01:13:45-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "7767995",
+            "name": "Kay Kwak",
+            "username": "kay_arkain",
+            "avatarUrl": "https://ph-avatars.imgix.net/7767995/fa4d5e4a-af59-4276-8509-b010325d420f.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4377175#lovable-launched",
+          "path": "/products/lovable?comment=4377175#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4377186",
+          "body": "What a meta launch! Product Hunt for products built with Lovable. Congrats to the whole team to a well executed few past months. Why hasn't anyone thought about doing this before?",
+          "bodyHtml": "What a meta launch! Product Hunt for products built with Lovable. Congrats to the whole team to a well executed few past months. Why hasn't anyone thought about doing this before?",
+          "createdAt": "2025-02-07T01:19:04-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "1577325",
+            "name": "Per Clingweld",
+            "username": "per_clingweld",
+            "avatarUrl": "https://ph-avatars.imgix.net/1577325/cc1b637b-9b67-4844-a222-e73a74a0cd29.png",
+            "product": {
+              "id": "953819",
+              "name": "Andsend",
+              "slug": "andsend"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4377186#lovable-launched",
+          "path": "/products/lovable?comment=4377186#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4377528",
+          "body": "Getting those first users is always the hardest part—excited to see how this helps Lovable app creators gain traction!",
+          "bodyHtml": "Getting those first users is always the hardest part—excited to see how this helps Lovable app creators gain traction!",
+          "createdAt": "2025-02-07T03:21:55-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "7941686",
+            "name": "Marianna Tymchuk",
+            "username": "marianna_tymchuk",
+            "avatarUrl": "https://ph-avatars.imgix.net/7941686/2ad2066a-bdec-4788-b925-209f7bd45d91.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4377528#lovable-launched",
+          "path": "/products/lovable?comment=4377528#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4377561",
+          "body": "Congrats, great product and great growth strategies and actions. You are an inspiration to all of us",
+          "bodyHtml": "Congrats, great product and great growth strategies and actions. You are an inspiration to all of us",
+          "createdAt": "2025-02-07T03:32:41-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "6239468",
+            "name": "Aage Reerslev",
+            "username": "aage_reerslev1",
+            "avatarUrl": "https://ph-avatars.imgix.net/6239468/ef36d6d3-06ca-4b7b-a11f-969fab38bf03.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4377561#lovable-launched",
+          "path": "/products/lovable?comment=4377561#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4377811",
+          "body": "A Product Hunt-style platform for Lovable-built apps makes total sense. Will there be any curation or will it be fully community-driven?",
+          "bodyHtml": "A Product Hunt-style platform for Lovable-built apps makes total sense. Will there be any curation or will it be fully community-driven?",
+          "createdAt": "2025-02-07T05:00:18-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "4824354",
+            "name": "Anton Diduh",
+            "username": "anton_diduh",
+            "avatarUrl": "https://ph-avatars.imgix.net/4824354/original.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4377811#lovable-launched",
+          "path": "/products/lovable?comment=4377811#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4377961",
+          "body": "What an exciting initiative! 🎉 \"Lovable Launched\" seems like a perfect space to help makers showcase their apps and gain their first users.",
+          "bodyHtml": "What an exciting initiative! 🎉 \"Lovable Launched\" seems like a perfect space to help makers showcase their apps and gain their first users.",
+          "createdAt": "2025-02-07T05:53:29-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "6686043",
+            "name": "Mikita Aliaksandrovich",
+            "username": "mikita_aliaksandrovich",
+            "avatarUrl": "https://ph-avatars.imgix.net/6686043/279dbf9e-345a-4bea-a2b3-6b471602e4fc.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4377961#lovable-launched",
+          "path": "/products/lovable?comment=4377961#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4378357",
+          "body": "Lovable is pretty awesome. Loving the experience of it",
+          "bodyHtml": "Lovable is pretty awesome. Loving the experience of it",
+          "createdAt": "2025-02-07T08:31:21-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "7251697",
+            "name": "Prasanjit Dutta",
+            "username": "jit_dutta",
+            "avatarUrl": "https://ph-avatars.imgix.net/7251697/3184d96b-cb19-43a5-819f-dfc4f28e9596.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4378357#lovable-launched",
+          "path": "/products/lovable?comment=4378357#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4378603",
+          "body": "Congrats on your launch and making such an incredible product (and from Sweden/Europe!!)! Kudos to the whole team. PS: Learned I'm an indirect investor! Go go go!",
+          "bodyHtml": "Congrats on your launch and making such an incredible product (and from Sweden/Europe!!)! Kudos to the whole team. PS: Learned I'm an indirect investor! Go go go!",
+          "createdAt": "2025-02-07T10:35:44-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "120499",
+            "name": "Aurora",
+            "username": "aurorakb",
+            "avatarUrl": "https://ph-avatars.imgix.net/120499/6bf11ae2-3787-4165-a3a0-22a3d901bd03.jpeg",
+            "product": {
+              "id": "932196",
+              "name": "Tana",
+              "slug": "tana"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4378603#lovable-launched",
+          "path": "/products/lovable?comment=4378603#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4378615",
+          "body": "Looking forward to seeing different kind of web apps people develop with Lovable!",
+          "bodyHtml": "Looking forward to seeing different kind of web apps people develop with Lovable!",
+          "createdAt": "2025-02-07T10:44:31-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "119386",
+            "name": "Cagri Sarigoz",
+            "username": "cagrisarigoz",
+            "avatarUrl": "https://ph-avatars.imgix.net/119386/68cb62ac-f51a-4ce9-8349-3c768fa7fd68.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4378615#lovable-launched",
+          "path": "/products/lovable?comment=4378615#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4379438",
+          "body": "Love how it's like a specialized Product Hunt for the Lovable ecosystem 😄",
+          "bodyHtml": "Love how it's like a specialized Product Hunt for the Lovable ecosystem 😄",
+          "createdAt": "2025-02-07T16:56:44-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "3808335",
+            "name": "Jun Shen",
+            "username": "shenjun",
+            "avatarUrl": "https://ph-avatars.imgix.net/3808335/651940e9-1ca4-4885-ac3d-60fe6f0e8470.png",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4379438#lovable-launched",
+          "path": "/products/lovable?comment=4379438#lovable-launched",
+          "launchInfo": {
+            "id": "856408",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        }
+      ],
+      "commentCount": 15
+    },
+    {
+      "id": "608665",
+      "name": "Lovable",
+      "slug": "lovable",
+      "tagline": "The world's first AI Full Stack Engineer",
+      "createdAt": "2024-11-21T00:01:00-08:00",
+      "featuredAt": "2024-11-21T00:01:00-08:00",
+      "updatedAt": "2025-03-30T21:52:09-07:00",
+      "thumbnailImageUuid": "dc66b047-9813-46c2-9d3f-5a132f705501.gif",
+      "dailyRank": "1",
+      "weeklyRank": "4",
+      "monthlyRank": "5",
+      "votesCount": 2011,
+      "commentsCount": 289,
+      "latestScore": 1640,
+      "launchDayScore": 878,
+      "shortenedUrl": "/r/p/608665",
+      "badges": [
+        {
+          "position": 5,
+          "period": "monthly",
+          "date": "2024-11-21"
+        },
+        {
+          "position": 4,
+          "period": "weekly",
+          "date": "2024-11-21"
+        },
+        {
+          "position": 1,
+          "period": "daily",
+          "date": "2024-11-21"
+        }
+      ],
+      "product": {
+        "id": "566141",
+        "isSubscribed": false
+      },
+      "comments": [
+        {
+          "id": "4144607",
+          "body": "Hey PH fam! 👋 Anton here, creator of Lovable\n\nAs a founder, I have always felt that building products takes too long. With Lovable, we fix this.\n\nOur AI Software Engineer enables developers and non-developers to turn their ideas into products, but 20x faster and using plain English instead of code. \n\nIn contrast to other codegen tools, Lovable reliably replicates the capabilities of a full stack engineer and handles everything from UI to database operations. Connect your project to <a href=\"https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Supabase</a> with one click and build more sophisticated apps with backend capabilities in Lovable. No more coding needed to build apps with working backends. \n\nQuick shoutout to our amazing community that has supported us since launch of our first version, GPT Engineer, which quickly grew to 1,000+ new frontend apps built daily, and got 5/5 reviews here on PH. We're excited for the next chapter.\n\n🔥 <strong>So what's new in Lovable?</strong>\n\n<strong>Full stack development:</strong> Connect your Lovable project to Supabase to add backend capabilities to your app, like Stripe subscriptions, data storage, user authentication, email sending, and even AI features, built with prompts.\n\n<strong>Precision edits:</strong> Never look back on unwanted changes. Select-to-edit lets you choose the exact components you want the AI to change.\n\n<strong>Large codebase support:</strong> Lovable can now build significantly larger codebases than other AI tools, handling 100,000+ lines of code.\n\n<strong>Templates:</strong> Get inspired and kick-start creations from a template you like, while still being able to tailor anything with a prompt to Lovable.\n\nOur 2-way Github integration lets you combine in-app prompts and Github commits and ship to market faster than ever before with one-click deployment.\n\n💡 <strong>What are Lovable users shipping?</strong>\n\n<strong>User-facing applications:</strong>\n📲  <a href=\"https://wiktok.lovable.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"> SaaS with API integrations</a> (Example: Wiktok, TikTok meets Wikipedia)\n✨ <a href=\"https://renamify.co/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">AI-powered Micro SaaS</a> (Example: Renamify)\n👨‍💻<a href=\"https://animaflow.netlify.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Developer tool</a> (Example: CSS animation playground)\n\n<strong>Business applications &amp; internal tools:</strong>\n🔒  <a href=\"https://guideline-guru.lovable.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"> Content analysis / brand compliance tool</a> (Example: Guideline guru) \n🧙‍♂️ <a href=\"https://removebackground.lovable.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Niche use case application</a> (Example: Background Remover) \n📑 <a href=\"https://pdf.gptengineer.run/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Productivity tool</a> (Example: (Recharts: PDF suit with PDF-lib))\n\n<strong>Personal, business or event websites:</strong>\n🎨 <a href=\"https://stylish-landing-page.lovable.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Advanced, stylized landing page</a> (Example: Plainly simple)\n🌎 <a href=\"https://us-elections-2024.gptengineer.run/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Website with interactive map</a> (Example: Elect Map)\n🌈 <a href=\"https://ivisual.ai/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Common SaaS landing page</a> (Example: iVisual)\n\n<strong>Near-instant product prototypes to validate and find PMF faster:</strong>\nLovable can’t yet build large SaaS like Salesforce, but it can build a CRM tailored to your needs, or an MVP of any large SaaS to validate customers’ willingness to pay.\n\n👥 <strong>Who is Lovable for?</strong>\n\n<strong>Founders, solopreneurs &amp; indie-hackers</strong> that want to start validating prototypes in minutes and launch a full product in less than a day\n\n<strong>Designers</strong> seeking to bring design prototypes to life instantly without tedious wireframing\n\n<strong>CTOs</strong> looking to involve non-technical colleagues in product development\n\n<strong>Technical operators</strong> building internal tools that precisely match company needs\n\n<strong>Generalist + backend engineers</strong> that want to build beautiful Frontend faster\n\nTry Lovable today and claim an exclusive 20% Launch day discount via this code at checkout: \nPHLAUNCH-24\n\nTell us what you’re building in the comments ✨🚀",
+          "bodyHtml": "Hey PH fam! 👋 Anton here, creator of Lovable\n\nAs a founder, I have always felt that building products takes too long. With Lovable, we fix this.\n\nOur AI Software Engineer enables developers and non-developers to turn their ideas into products, but 20x faster and using plain English instead of code. \n\nIn contrast to other codegen tools, Lovable reliably replicates the capabilities of a full stack engineer and handles everything from UI to database operations. Connect your project to <a href=\"https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Supabase</a> with one click and build more sophisticated apps with backend capabilities in Lovable. No more coding needed to build apps with working backends. \n\nQuick shoutout to our amazing community that has supported us since launch of our first version, GPT Engineer, which quickly grew to 1,000+ new frontend apps built daily, and got 5/5 reviews here on PH. We're excited for the next chapter.\n\n🔥 <strong>So what's new in Lovable?</strong>\n\n<strong>Full stack development:</strong> Connect your Lovable project to Supabase to add backend capabilities to your app, like Stripe subscriptions, data storage, user authentication, email sending, and even AI features, built with prompts.\n\n<strong>Precision edits:</strong> Never look back on unwanted changes. Select-to-edit lets you choose the exact components you want the AI to change.\n\n<strong>Large codebase support:</strong> Lovable can now build significantly larger codebases than other AI tools, handling 100,000+ lines of code.\n\n<strong>Templates:</strong> Get inspired and kick-start creations from a template you like, while still being able to tailor anything with a prompt to Lovable.\n\nOur 2-way Github integration lets you combine in-app prompts and Github commits and ship to market faster than ever before with one-click deployment.\n\n💡 <strong>What are Lovable users shipping?</strong>\n\n<strong>User-facing applications:</strong>\n📲  <a href=\"https://wiktok.lovable.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"> SaaS with API integrations</a> (Example: Wiktok, TikTok meets Wikipedia)\n✨ <a href=\"https://renamify.co/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">AI-powered Micro SaaS</a> (Example: Renamify)\n👨‍💻<a href=\"https://animaflow.netlify.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Developer tool</a> (Example: CSS animation playground)\n\n<strong>Business applications &amp; internal tools:</strong>\n🔒  <a href=\"https://guideline-guru.lovable.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"> Content analysis / brand compliance tool</a> (Example: Guideline guru) \n🧙‍♂️ <a href=\"https://removebackground.lovable.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Niche use case application</a> (Example: Background Remover) \n📑 <a href=\"https://pdf.gptengineer.run/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Productivity tool</a> (Example: (Recharts: PDF suit with PDF-lib))\n\n<strong>Personal, business or event websites:</strong>\n🎨 <a href=\"https://stylish-landing-page.lovable.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Advanced, stylized landing page</a> (Example: Plainly simple)\n🌎 <a href=\"https://us-elections-2024.gptengineer.run/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Website with interactive map</a> (Example: Elect Map)\n🌈 <a href=\"https://ivisual.ai/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Common SaaS landing page</a> (Example: iVisual)\n\n<strong>Near-instant product prototypes to validate and find PMF faster:</strong>\nLovable can’t yet build large SaaS like Salesforce, but it can build a CRM tailored to your needs, or an MVP of any large SaaS to validate customers’ willingness to pay.\n\n👥 <strong>Who is Lovable for?</strong>\n\n<strong>Founders, solopreneurs &amp; indie-hackers</strong> that want to start validating prototypes in minutes and launch a full product in less than a day\n\n<strong>Designers</strong> seeking to bring design prototypes to life instantly without tedious wireframing\n\n<strong>CTOs</strong> looking to involve non-technical colleagues in product development\n\n<strong>Technical operators</strong> building internal tools that precisely match company needs\n\n<strong>Generalist + backend engineers</strong> that want to build beautiful Frontend faster\n\nTry Lovable today and claim an exclusive 20% Launch day discount via this code at checkout: \nPHLAUNCH-24\n\nTell us what you’re building in the comments ✨🚀",
+          "createdAt": "2024-11-20T02:08:36-08:00",
+          "votesCount": 45,
+          "isPinned": false,
+          "isSticky": true,
+          "repliesCount": 17,
+          "author": {
+            "id": "2713059",
+            "name": "Anton Osika",
+            "username": "antonosika",
+            "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+            "product": {
+              "id": "566141",
+              "name": "Lovable",
+              "slug": "lovable"
+            }
+          },
+          "badges": [
+            "maker"
+          ],
+          "url": "https://www.producthunt.com/products/lovable?comment=4144607#lovable",
+          "path": "/products/lovable?comment=4144607#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "lovable",
+            "name": "Lovable"
+          },
+          "replies": [
+            {
+              "id": "4148679",
+              "parentId": "4144607",
+              "body": "@antonosika You made the Coders sweat and smile at the same time. I am closely watching this AI coding space for sometime and literally nonone has go the features to Choose to edit and one clock deploy. I would get my hands dirtier on Lovable and hopefully be your customer soon. Excited overall. \n\nGreat launch video, btw . Congrats, Anton and your entire Lovable team!",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> You made the Coders sweat and smile at the same time. I am closely watching this AI coding space for sometime and literally nonone has go the features to Choose to edit and one clock deploy. I would get my hands dirtier on Lovable and hopefully be your customer soon. Excited overall. \n\nGreat launch video, btw . Congrats, Anton and your entire Lovable team!",
+              "createdAt": "2024-11-21T05:06:59-08:00",
+              "votesCount": 15,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "4985958",
+                "name": "Raju Singh",
+                "username": "imraju",
+                "avatarUrl": "https://ph-avatars.imgix.net/4985958/341078a3-b5d9-4248-9c9d-79d3f5244389.png",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4148679#lovable",
+              "path": "/products/lovable?comment=4148679#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            },
+            {
+              "id": "4148785",
+              "parentId": "4144607",
+              "body": "@antonosika @imraju Thanks Raju, appreciate the support. Looking forward to having as one of our creators!",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> <a href=\"https://www.producthunt.com/@imraju\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@imraju</a> Thanks Raju, appreciate the support. Looking forward to having as one of our creators!",
+              "createdAt": "2024-11-21T05:29:35-08:00",
+              "votesCount": 3,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4148785#lovable",
+              "path": "/products/lovable?comment=4148785#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            },
+            {
+              "id": "4149302",
+              "parentId": "4144607",
+              "body": "@antonosika wow I tried loveable out not knowing what to expect and oh boy did it blow my socks off. very well done guys!",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> wow I tried loveable out not knowing what to expect and oh boy did it blow my socks off. very well done guys!",
+              "createdAt": "2024-11-21T08:30:07-08:00",
+              "votesCount": 4,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "7793376",
+                "name": "John Bass",
+                "username": "john_bass",
+                "avatarUrl": "https://ph-avatars.imgix.net/7793376/original.png",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4149302#lovable",
+              "path": "/products/lovable?comment=4149302#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            },
+            {
+              "id": "4149344",
+              "parentId": "4144607",
+              "body": "@antonosika @john_bass That's the feedback we love to hear. What did you try building?",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> <a href=\"https://www.producthunt.com/@john_bass\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@john_bass</a> That's the feedback we love to hear. What did you try building?",
+              "createdAt": "2024-11-21T08:46:31-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4149344#lovable",
+              "path": "/products/lovable?comment=4149344#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            },
+            {
+              "id": "4149489",
+              "parentId": "4144607",
+              "body": "@antonosika @vibor_cipan replied on the wrong thread! I'm developing the concept for dynamic personal development resources so I threw that prompt at loveable :)",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> <a href=\"https://www.producthunt.com/@vibor_cipan\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@vibor_cipan</a> replied on the wrong thread! I'm developing the concept for dynamic personal development resources so I threw that prompt at loveable :)",
+              "createdAt": "2024-11-21T09:38:01-08:00",
+              "votesCount": 3,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "7793376",
+                "name": "John Bass",
+                "username": "john_bass",
+                "avatarUrl": "https://ph-avatars.imgix.net/7793376/original.png",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4149489#lovable",
+              "path": "/products/lovable?comment=4149489#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            },
+            {
+              "id": "4163992",
+              "parentId": "4144607",
+              "body": "@antonosika, where is your customer service? I am a new customer and there is a serious issue I may have to cancel over. Please reply asap.",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>, where is your customer service? I am a new customer and there is a serious issue I may have to cancel over. Please reply asap.",
+              "createdAt": "2024-11-25T13:10:46-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "7854996",
+                "name": "A. J.",
+                "username": "a_j_4",
+                "avatarUrl": "https://ph-avatars.imgix.net/7854996/2be50653-b9e1-455a-b483-52035bd39d4f.png",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4163992#lovable",
+              "path": "/products/lovable?comment=4163992#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            },
+            {
+              "id": "4175882",
+              "parentId": "4144607",
+              "body": "@antonosika merci énormément, j'ai construit une appli de gestion de dépenses facilement grâce à vous, mais ça contient certains bug.",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> merci énormément, j'ai construit une appli de gestion de dépenses facilement grâce à vous, mais ça contient certains bug.",
+              "createdAt": "2024-11-28T23:43:38-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "7875107",
+                "name": "joshly",
+                "username": "joshly_blan",
+                "avatarUrl": "https://ph-avatars.imgix.net/7875107/original.png",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4175882#lovable",
+              "path": "/products/lovable?comment=4175882#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            },
+            {
+              "id": "4397378",
+              "parentId": "4144607",
+              "body": "<p>&nbsp;<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;I am building AI Recruiter ( <a href=\"https://hirecade.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://hirecade.com/</a>). Will your AI engineer have time to interview with our AI Recruiter?</p>",
+              "bodyHtml": "<p>&nbsp;<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>&nbsp;I am building AI Recruiter ( <a href=\"https://hirecade.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://hirecade.com/</a>). Will your AI engineer have time to interview with our AI Recruiter?</p>",
+              "createdAt": "2025-02-13T17:49:11-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "3503035",
+                "name": "Ashish Thakral",
+                "username": "honestashish",
+                "avatarUrl": "https://ph-avatars.imgix.net/3503035/34be9334-11d6-4ef3-a373-1ba014e36d43.jpeg",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4397378#lovable",
+              "path": "/products/lovable?comment=4397378#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            },
+            {
+              "id": "4148460",
+              "parentId": "4144607",
+              "body": "@antonosika  this looks awesome! LOVE IT! 😻",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>  this looks awesome! LOVE IT! 😻",
+              "createdAt": "2024-11-21T03:26:00-08:00",
+              "votesCount": 8,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "601094",
+                "name": "Thor Schaeff",
+                "username": "schaeff_t",
+                "avatarUrl": "https://ph-avatars.imgix.net/601094/2dd5d9fc-271f-4253-af93-5d97e45e12a2.jpeg",
+                "product": {
+                  "id": "106850",
+                  "name": "Supabase",
+                  "slug": "supabase"
+                }
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4148460#lovable",
+              "path": "/products/lovable?comment=4148460#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            },
+            {
+              "id": "4149486",
+              "parentId": "4144607",
+              "body": "@antonosika oh just a customised self-help resource shop :)",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> oh just a customised self-help resource shop :)",
+              "createdAt": "2024-11-21T09:35:55-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "7793376",
+                "name": "John Bass",
+                "username": "john_bass",
+                "avatarUrl": "https://ph-avatars.imgix.net/7793376/original.png",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4149486#lovable",
+              "path": "/products/lovable?comment=4149486#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            },
+            {
+              "id": "4149844",
+              "parentId": "4144607",
+              "body": "@antonosika I loved Lovable, which is actually quite appropriately named! I tested several tools trying to implement a basic LMS that would make learning for our edtech students intuitive and fluid. The latest one was BOLT, man, the differences were huge, the history maintenance, the ease of integration with Supabase, the speed and accuracy of error corrections. Congratulations, Lovable exceeded my expectations, very well done, guys.",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> I loved Lovable, which is actually quite appropriately named! I tested several tools trying to implement a basic LMS that would make learning for our edtech students intuitive and fluid. The latest one was BOLT, man, the differences were huge, the history maintenance, the ease of integration with Supabase, the speed and accuracy of error corrections. Congratulations, Lovable exceeded my expectations, very well done, guys.",
+              "createdAt": "2024-11-21T14:40:14-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "7847947",
+                "name": "Antônio Rodrigues S Neto",
+                "username": "antonio_rodrigues5",
+                "avatarUrl": "https://ph-avatars.imgix.net/7847947/original.png",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4149844#lovable",
+              "path": "/products/lovable?comment=4149844#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            },
+            {
+              "id": "4166755",
+              "parentId": "4144607",
+              "body": "@antonosika Just tried lovable. Simply blown away.",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> Just tried lovable. Simply blown away.",
+              "createdAt": "2024-11-26T06:07:04-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "7865295",
+                "name": "Inverse ED",
+                "username": "inverse_ed",
+                "avatarUrl": "https://ph-avatars.imgix.net/7865295/original.png",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4166755#lovable",
+              "path": "/products/lovable?comment=4166755#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "4147219",
+          "body": "I am customer of Lovable\nI did <a href=\"https://altafino.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://altafino.com</a> , <a href=\"https://ivisual.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://ivisual.ai</a> and <a href=\"https://cpaas.com.br\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://cpaas.com.br</a> with the product\nAnd i must say, Lovable is the name it really deserves!\nJust a great UX. From creating full pages with Supabase integration, Stripe etc to DevOps related stuff, all just amazing.\n\nCongrats Lovable Team!",
+          "bodyHtml": "I am customer of Lovable\nI did <a href=\"https://altafino.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://altafino.com</a> , <a href=\"https://ivisual.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://ivisual.ai</a> and <a href=\"https://cpaas.com.br\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://cpaas.com.br</a> with the product\nAnd i must say, Lovable is the name it really deserves!\nJust a great UX. From creating full pages with Supabase integration, Stripe etc to DevOps related stuff, all just amazing.\n\nCongrats Lovable Team!",
+          "createdAt": "2024-11-21T00:24:02-08:00",
+          "votesCount": 14,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "782904",
+            "name": "Stefan W",
+            "username": "golangch",
+            "avatarUrl": "https://ph-avatars.imgix.net/782904/original.jpeg",
+            "product": {
+              "id": "466556",
+              "name": "Golang Developer Jobs & Resumes",
+              "slug": "golang-developer-jobs-resumes"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4147219#lovable",
+          "path": "/products/lovable?comment=4147219#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "lovable",
+            "name": "Lovable"
+          },
+          "replies": [
+            {
+              "id": "4147228",
+              "parentId": "4147219",
+              "body": "@golangch Thanks Stefan for being one of our Lovable customers 🫶🏻",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@golangch\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@golangch</a> Thanks Stefan for being one of our Lovable customers 🫶🏻",
+              "createdAt": "2024-11-21T00:25:08-08:00",
+              "votesCount": 4,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4147228#lovable",
+              "path": "/products/lovable?comment=4147228#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4147741",
+          "body": "Huge congrats to the team on launching Lovable today! I'm intrigued by the promise of shipping apps 20x faster with an AI Full Stack Engineer. Can you share a rough estimate of how much dev expertise is still required to effectively work with Lovable, or is it truly accessible to non-coders too?",
+          "bodyHtml": "Huge congrats to the team on launching Lovable today! I'm intrigued by the promise of shipping apps 20x faster with an AI Full Stack Engineer. Can you share a rough estimate of how much dev expertise is still required to effectively work with Lovable, or is it truly accessible to non-coders too?",
+          "createdAt": "2024-11-21T02:00:42-08:00",
+          "votesCount": 11,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "6221718",
+            "name": "Huzaifa Shoukat",
+            "username": "ihuzaifashoukat",
+            "avatarUrl": "https://ph-avatars.imgix.net/6221718/1dae9053-aebc-4762-b5d9-db8777ab10b2.png",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4147741#lovable",
+          "path": "/products/lovable?comment=4147741#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "lovable",
+            "name": "Lovable"
+          },
+          "replies": [
+            {
+              "id": "4147955",
+              "parentId": "4147741",
+              "body": "@ihuzaifashoukat Awesome question! I'd say Lovable is flexible. For example, you can be a complete beginner and just say: \"Build me website for my SaaS startup in the food delivery domain. Make it in neo-brutalist design style\" and it will build it for you.\n\nThen you can connect it to Supabase do add some data storage or even their buckets to save your images. \n\nArguably, if you are a dev or more technical, some of these things will be easier for you since you already know concepts of databases, backend, auth, security...\n\nWe also have docs that can help on your journey: <a href=\"https://docs.lovable.dev/introduction\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://docs.lovable.dev/introdu...</a>",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@ihuzaifashoukat\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@ihuzaifashoukat</a> Awesome question! I'd say Lovable is flexible. For example, you can be a complete beginner and just say: \"Build me website for my SaaS startup in the food delivery domain. Make it in neo-brutalist design style\" and it will build it for you.\n\nThen you can connect it to Supabase do add some data storage or even their buckets to save your images. \n\nArguably, if you are a dev or more technical, some of these things will be easier for you since you already know concepts of databases, backend, auth, security...\n\nWe also have docs that can help on your journey: <a href=\"https://docs.lovable.dev/introduction\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://docs.lovable.dev/introdu...</a>",
+              "createdAt": "2024-11-21T02:25:03-08:00",
+              "votesCount": 5,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4147955#lovable",
+              "path": "/products/lovable?comment=4147955#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4147421",
+          "body": "Congrats Anton and team on the launch! Been amazing (and impressive!) to watch your progress from the sidelines over the last year!",
+          "bodyHtml": "Congrats Anton and team on the launch! Been amazing (and impressive!) to watch your progress from the sidelines over the last year!",
+          "createdAt": "2024-11-21T00:51:25-08:00",
+          "votesCount": 9,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 2,
+          "author": {
+            "id": "1044",
+            "name": "Neil S W Murray",
+            "username": "neilswmurray",
+            "avatarUrl": "https://ph-avatars.imgix.net/1044/19faa0d8-d4fa-4deb-b433-300fbc9f7e14.jpeg",
+            "product": {
+              "id": "441373",
+              "name": "Playmaker",
+              "slug": "playmaker"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4147421#lovable",
+          "path": "/products/lovable?comment=4147421#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "lovable",
+            "name": "Lovable"
+          },
+          "replies": [
+            {
+              "id": "4147439",
+              "parentId": "4147421",
+              "body": "@neilswmurray Thanks for your kind words, Neils! It's been a ride and there's so much more to come!",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@neilswmurray\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@neilswmurray</a> Thanks for your kind words, Neils! It's been a ride and there's so much more to come!",
+              "createdAt": "2024-11-21T00:57:23-08:00",
+              "votesCount": 4,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4147439#lovable",
+              "path": "/products/lovable?comment=4147439#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            },
+            {
+              "id": "4453471",
+              "parentId": "4147421",
+              "body": "<p>&nbsp;<a href=\"https://www.producthunt.com/@vibor_cipan\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@vibor_cipan</a>&nbsp;Is there a chance I could get like 30% discount as someone coming from a third world country where there is purchasing power disparity?</p>",
+              "bodyHtml": "<p>&nbsp;<a href=\"https://www.producthunt.com/@vibor_cipan\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@vibor_cipan</a>&nbsp;Is there a chance I could get like 30% discount as someone coming from a third world country where there is purchasing power disparity?</p>",
+              "createdAt": "2025-03-04T11:40:05-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "4930798",
+                "name": "Lulu Hassan",
+                "username": "lulu_hassan",
+                "avatarUrl": "https://ph-avatars.imgix.net/4930798/original.jpeg",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4453471#lovable",
+              "path": "/products/lovable?comment=4453471#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "lovable",
+                "name": "Lovable"
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "Mg"
+        },
+        {
+          "id": "4147133",
+          "body": "Congrats Anton! Seeing your demos continually get more and more impressive over time has been awesome to see!",
+          "bodyHtml": "Congrats Anton! Seeing your demos continually get more and more impressive over time has been awesome to see!",
+          "createdAt": "2024-11-21T00:13:27-08:00",
+          "votesCount": 8,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "661095",
+            "name": "Brandon Chen",
+            "username": "brandon_chen1",
+            "avatarUrl": "https://ph-avatars.imgix.net/661095/original.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4147133#lovable",
+          "path": "/products/lovable?comment=4147133#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4147218",
+              "parentId": "4147133",
+              "body": "@brandon_chen1 Thanks for following us along and we are excited to see what you will build with Lovable!",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@brandon_chen1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@brandon_chen1</a> Thanks for following us along and we are excited to see what you will build with Lovable!",
+              "createdAt": "2024-11-21T00:23:49-08:00",
+              "votesCount": 2,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4147218#lovable",
+              "path": "/products/lovable?comment=4147218#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4147801",
+          "body": "Congrats on the launch! 💙 Making backend building this simple is such a huge win. The fact that you can go from an idea to a fully working app without needing to figure out the database side is what makes lovable stand out imo. Can't wait to see what people create.",
+          "bodyHtml": "Congrats on the launch! 💙 Making backend building this simple is such a huge win. The fact that you can go from an idea to a fully working app without needing to figure out the database side is what makes lovable stand out imo. Can't wait to see what people create.",
+          "createdAt": "2024-11-21T02:08:14-08:00",
+          "votesCount": 6,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "4939333",
+            "name": "Johnny Wordsworth",
+            "username": "wordeu",
+            "avatarUrl": "https://ph-avatars.imgix.net/4939333/7b6c4b09-9f39-4a1d-920b-fc22e34f9383.jpeg",
+            "product": {
+              "id": "548886",
+              "name": "Anecdote",
+              "slug": "anecdote-2"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4147801#lovable",
+          "path": "/products/lovable?comment=4147801#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4147924",
+              "parentId": "4147801",
+              "body": "@wordeu that's one of the most rewarding parts - seeing creators build amazing stuff with Lovable. Thanks for your kind words and support!",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@wordeu\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@wordeu</a> that's one of the most rewarding parts - seeing creators build amazing stuff with Lovable. Thanks for your kind words and support!",
+              "createdAt": "2024-11-21T02:21:37-08:00",
+              "votesCount": 4,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4147924#lovable",
+              "path": "/products/lovable?comment=4147924#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4147396",
+          "body": "I will be forming an AI team with Lovable.",
+          "bodyHtml": "I will be forming an AI team with Lovable.",
+          "createdAt": "2024-11-21T00:45:03-08:00",
+          "votesCount": 7,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "1855864",
+            "name": "Robert Shaw",
+            "username": "xiaoluoboding",
+            "avatarUrl": "https://ph-avatars.imgix.net/1855864/825c953b-5a18-48f3-80d5-39ed80770b67.png",
+            "product": {
+              "id": "694035",
+              "name": "Side Space",
+              "slug": "side-space"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4147396#lovable",
+          "path": "/products/lovable?comment=4147396#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4147407",
+              "parentId": "4147396",
+              "body": "@xiaoluoboding Lovable will be a full-stack engineer? Or several of them?",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@xiaoluoboding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@xiaoluoboding</a> Lovable will be a full-stack engineer? Or several of them?",
+              "createdAt": "2024-11-21T00:47:52-08:00",
+              "votesCount": 2,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4147407#lovable",
+              "path": "/products/lovable?comment=4147407#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4147539",
+          "body": "This is excellent. generated and published within 2 minutes.\n<a href=\"https://bookish-showcase-haven.lovable.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://bookish-showcase-haven.l...</a>",
+          "bodyHtml": "This is excellent. generated and published within 2 minutes.\n<a href=\"https://bookish-showcase-haven.lovable.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://bookish-showcase-haven.l...</a>",
+          "createdAt": "2024-11-21T01:23:25-08:00",
+          "votesCount": 7,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "3074570",
+            "name": "Akshara Hegde",
+            "username": "akshara_hegde",
+            "avatarUrl": "https://ph-avatars.imgix.net/3074570/41404ab3-79b6-4091-8124-6581cdc00e8d.jpeg",
+            "product": {
+              "id": "544073",
+              "name": "EasyNPM",
+              "slug": "easynpm"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4147539#lovable",
+          "path": "/products/lovable?comment=4147539#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4147563",
+              "parentId": "4147539",
+              "body": "@akshara_hegde Hey it's great to see you building with us!",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@akshara_hegde\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@akshara_hegde</a> Hey it's great to see you building with us!",
+              "createdAt": "2024-11-21T01:27:54-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4147563#lovable",
+              "path": "/products/lovable?comment=4147563#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4147414",
+          "body": "Wow awesome work!! Love the supabase integration. Game-changing. Let's go!",
+          "bodyHtml": "Wow awesome work!! Love the supabase integration. Game-changing. Let's go!",
+          "createdAt": "2024-11-21T00:49:38-08:00",
+          "votesCount": 6,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "2578996",
+            "name": "Josh Payne",
+            "username": "joshpxyne",
+            "avatarUrl": "https://ph-avatars.imgix.net/2578996/34e00eee-b569-45d7-b0cb-2f3e112460ea.jpeg",
+            "product": {
+              "id": "542494",
+              "name": "Coframe",
+              "slug": "coframe"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4147414#lovable",
+          "path": "/products/lovable?comment=4147414#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4147436",
+              "parentId": "4147414",
+              "body": "@joshpxyne It's an incredible unlock, right? Pretty much anything you can think of is now doable.",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@joshpxyne\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@joshpxyne</a> It's an incredible unlock, right? Pretty much anything you can think of is now doable.",
+              "createdAt": "2024-11-21T00:56:31-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4147436#lovable",
+              "path": "/products/lovable?comment=4147436#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4147861",
+          "body": "Congrats on the launch! The Supabase integration is awesome!",
+          "bodyHtml": "Congrats on the launch! The Supabase integration is awesome!",
+          "createdAt": "2024-11-21T02:15:41-08:00",
+          "votesCount": 5,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "3091492",
+            "name": "Tyler Shukert",
+            "username": "dshukertjr",
+            "avatarUrl": "https://ph-avatars.imgix.net/3091492/5e1ea47c-6acc-4c8b-9f01-da1d97882996.png",
+            "product": {
+              "id": "525120",
+              "name": "SVB News Hub",
+              "slug": "svb-news-hub"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4147861#lovable",
+          "path": "/products/lovable?comment=4147861#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4147910",
+              "parentId": "4147861",
+              "body": "@dshukertjr We absolutely love building with Supabase! Unlocks so many opportunities for our users - from auth to edge functions and storage, crazy powerful!",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@dshukertjr\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@dshukertjr</a> We absolutely love building with Supabase! Unlocks so many opportunities for our users - from auth to edge functions and storage, crazy powerful!",
+              "createdAt": "2024-11-21T02:20:31-08:00",
+              "votesCount": 2,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4147910#lovable",
+              "path": "/products/lovable?comment=4147910#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4148973",
+          "body": "Weve built so much and more with Lovable already! Really cant express enough how impressed I am with the application!\n\nIN DAYS NOT MONTHS WE HAVE BUILT:\n\n- A startup that got top 10 on Product Hunt.\n\n- A internal tool for a large 700 person enterprise team.\n\n- Countless internal tools to help us work faster.\n\nAnton, Fabian and the rest of the team have truly built something wonderful here. Great job!",
+          "bodyHtml": "Weve built so much and more with Lovable already! Really cant express enough how impressed I am with the application!\n\nIN DAYS NOT MONTHS WE HAVE BUILT:\n\n- A startup that got top 10 on Product Hunt.\n\n- A internal tool for a large 700 person enterprise team.\n\n- Countless internal tools to help us work faster.\n\nAnton, Fabian and the rest of the team have truly built something wonderful here. Great job!",
+          "createdAt": "2024-11-21T06:33:33-08:00",
+          "votesCount": 5,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "4677176",
+            "name": "Harry Roper",
+            "username": "harry_roper",
+            "avatarUrl": "https://ph-avatars.imgix.net/4677176/original.png",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4148973#lovable",
+          "path": "/products/lovable?comment=4148973#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4149358",
+              "parentId": "4148973",
+              "body": "@harry_roper Hey it's one of our OG community members and maker de luxe! Thanks for the shout man, we are happy to have you as our user!",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@harry_roper\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@harry_roper</a> Hey it's one of our OG community members and maker de luxe! Thanks for the shout man, we are happy to have you as our user!",
+              "createdAt": "2024-11-21T08:51:09-08:00",
+              "votesCount": 2,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4149358#lovable",
+              "path": "/products/lovable?comment=4149358#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4148190",
+          "body": "Congrats on the launch @antonosika and team! Played with the app yesterday… it’s insane. Exactly what I wanted + love how well you abstract the code/commits. The Supabase integration is great too. Will be using it a bunch!!!",
+          "bodyHtml": "Congrats on the launch <a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> and team! Played with the app yesterday… it’s insane. Exactly what I wanted + love how well you abstract the code/commits. The Supabase integration is great too. Will be using it a bunch!!!",
+          "createdAt": "2024-11-21T02:51:51-08:00",
+          "votesCount": 4,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "1933074",
+            "name": "Ali Attar",
+            "username": "aliatttar",
+            "avatarUrl": "https://ph-avatars.imgix.net/1933074/45507021-5ab8-4273-9fb5-fd9de4143a3d.png",
+            "product": {
+              "id": "464762",
+              "name": "SigmaOS Browser",
+              "slug": "sigmaos"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4148190#lovable",
+          "path": "/products/lovable?comment=4148190#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4148417",
+              "parentId": "4148190",
+              "body": "@antonosika @aliatttar that's awesome to hear. I'd love to see what you end up building with us. Feel free to join our Discord as well and you can post to #showcase channel there with others: <a href=\"https://discord.gg/jstGvUnFnm\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://discord.gg/jstGvUnFnm</a>",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> <a href=\"https://www.producthunt.com/@aliatttar\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@aliatttar</a> that's awesome to hear. I'd love to see what you end up building with us. Feel free to join our Discord as well and you can post to #showcase channel there with others: <a href=\"https://discord.gg/jstGvUnFnm\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://discord.gg/jstGvUnFnm</a>",
+              "createdAt": "2024-11-21T03:19:38-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4148417#lovable",
+              "path": "/products/lovable?comment=4148417#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4148976",
+          "body": "This is super nice—I'm kicking the tires now. I like the simple GitHub integration, and it fired up the MVP version of my app extremely quickly. Congratulations on the launch!",
+          "bodyHtml": "This is super nice—I'm kicking the tires now. I like the simple GitHub integration, and it fired up the MVP version of my app extremely quickly. Congratulations on the launch!",
+          "createdAt": "2024-11-21T06:35:09-08:00",
+          "votesCount": 4,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "711066",
+            "name": "Ben Syverson",
+            "username": "bensyverson",
+            "avatarUrl": "https://ph-avatars.imgix.net/711066/2fc6b7ee-5b83-47ad-be63-4483f39035e3.jpeg",
+            "product": {
+              "id": "665580",
+              "name": "Mattebox",
+              "slug": "mattebox"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4148976#lovable",
+          "path": "/products/lovable?comment=4148976#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4149349",
+              "parentId": "4148976",
+              "body": "@bensyverson Thank you! GitHub integration is awesome - we've seen users inventing new workflows - they work in Lovable, connect with their own GitHub repos and then work on that codebase using some other IDE. It all syncs nicely which is very neat.",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@bensyverson\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@bensyverson</a> Thank you! GitHub integration is awesome - we've seen users inventing new workflows - they work in Lovable, connect with their own GitHub repos and then work on that codebase using some other IDE. It all syncs nicely which is very neat.",
+              "createdAt": "2024-11-21T08:48:27-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4149349#lovable",
+              "path": "/products/lovable?comment=4149349#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "4148525",
+          "body": "How come it’s the first one? Why not Devin, V0 or GPT engineer as you say?",
+          "bodyHtml": "How come it’s the first one? Why not Devin, V0 or GPT engineer as you say?",
+          "createdAt": "2024-11-21T04:03:15-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 2,
+          "author": {
+            "id": "7141380",
+            "name": "Jorge Alcántara",
+            "username": "jalcantara",
+            "avatarUrl": "https://ph-avatars.imgix.net/7141380/15e9cd55-39aa-44f1-a1f5-8edf90c85050.png",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4148525#lovable",
+          "path": "/products/lovable?comment=4148525#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4148586",
+              "parentId": "4148525",
+              "body": "@jalcantara Fair question - we believe it's the first one that enables end-to-end experience - from starting with your idea (or an image sketch) to an actual build and even deployments in one seamless experience.",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@jalcantara\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@jalcantara</a> Fair question - we believe it's the first one that enables end-to-end experience - from starting with your idea (or an image sketch) to an actual build and even deployments in one seamless experience.",
+              "createdAt": "2024-11-21T04:35:59-08:00",
+              "votesCount": 2,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4148586#lovable",
+              "path": "/products/lovable?comment=4148586#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "",
+                "name": ""
+              }
+            },
+            {
+              "id": "4162891",
+              "parentId": "4148525",
+              "body": "Ah! So with lovable we can host in production domains, interact with Db, session, etc?\n\nI’ve played with gptengineer quite a bit before just don’t see how the rebrand creates that last mile.",
+              "bodyHtml": "Ah! So with lovable we can host in production domains, interact with Db, session, etc?\n\nI’ve played with gptengineer quite a bit before just don’t see how the rebrand creates that last mile.",
+              "createdAt": "2024-11-25T04:49:56-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "7141380",
+                "name": "Jorge Alcántara",
+                "username": "jalcantara",
+                "avatarUrl": "https://ph-avatars.imgix.net/7141380/15e9cd55-39aa-44f1-a1f5-8edf90c85050.png",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=4162891#lovable",
+              "path": "/products/lovable?comment=4162891#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "Mg"
+        },
+        {
+          "id": "4148685",
+          "body": "This is week 3 of using lovable for developing and launching my current startup.\nIt is a time saver and I have never been so productive.\n\nI've seen a crazy development in the product in the past 3 weeks.\nThis team is shipping fast - totally Manhattan Project level event!",
+          "bodyHtml": "This is week 3 of using lovable for developing and launching my current startup.\nIt is a time saver and I have never been so productive.\n\nI've seen a crazy development in the product in the past 3 weeks.\nThis team is shipping fast - totally Manhattan Project level event!",
+          "createdAt": "2024-11-21T05:09:17-08:00",
+          "votesCount": 3,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 1,
+          "author": {
+            "id": "3296613",
+            "name": "Matthieu Crétier",
+            "username": "originalmatth",
+            "avatarUrl": "https://ph-avatars.imgix.net/3296613/original.jpeg",
+            "product": {
+              "id": "567104",
+              "name": "SkimAI - Productivity Assistant",
+              "slug": "skimai-productivity-assistant"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=4148685#lovable",
+          "path": "/products/lovable?comment=4148685#lovable",
+          "launchInfo": {
+            "id": "608665",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "4148793",
+              "parentId": "4148685",
+              "body": "@originalmatth Hey thanks for this, means a lot seeing that Lovable enables people like you be more creative and productive! It's inspiring!",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@originalmatth\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@originalmatth</a> Hey thanks for this, means a lot seeing that Lovable enables people like you be more creative and productive! It's inspiring!",
+              "createdAt": "2024-11-21T05:31:54-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "6549027",
+                "name": "Vibor Cipan",
+                "username": "vibor_cipan",
+                "avatarUrl": "https://ph-avatars.imgix.net/6549027/7d10c20a-9448-420d-b7ff-ea8c93e64271.jpeg",
+                "product": {
+                  "id": "596987",
+                  "name": "Zencoder ",
+                  "slug": "zencoder"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=4148793#lovable",
+              "path": "/products/lovable?comment=4148793#lovable",
+              "launchInfo": {
+                "id": "608665",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        }
+      ],
+      "commentCount": 15
+    },
+    {
+      "id": "432826",
+      "name": "gptengineer.app",
+      "slug": "gptengineer-app",
+      "tagline": "Rapid prototyping of web apps using English",
+      "createdAt": "2024-01-04T00:01:00-08:00",
+      "featuredAt": "2024-01-04T00:01:00-08:00",
+      "updatedAt": "2025-03-27T10:21:45-07:00",
+      "thumbnailImageUuid": "aabf6483-f378-49ea-bd43-f5936365c8d0.png",
+      "dailyRank": "1",
+      "weeklyRank": "1",
+      "monthlyRank": "16",
+      "votesCount": 1162,
+      "commentsCount": 212,
+      "latestScore": 816,
+      "launchDayScore": 813,
+      "shortenedUrl": "/r/p/432826",
+      "badges": [
+        {
+          "position": 1,
+          "period": "weekly",
+          "date": "2024-01-04"
+        },
+        {
+          "position": 1,
+          "period": "daily",
+          "date": "2024-01-04"
+        }
+      ],
+      "product": {
+        "id": "566141",
+        "isSubscribed": false
+      },
+      "comments": [
+        {
+          "id": "3082382",
+          "body": "Go read this thread to <a href=\"https://twitter.com/antonosika/status/1737113683392942237\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">grok this</a> .",
+          "bodyHtml": "Go read this thread to <a href=\"https://twitter.com/antonosika/status/1737113683392942237\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">grok this</a> .",
+          "createdAt": "2024-01-03T23:14:57-08:00",
+          "votesCount": 10,
+          "isPinned": false,
+          "isSticky": true,
+          "repliesCount": 0,
+          "author": {
+            "id": "18280",
+            "name": "Chris Messina",
+            "username": "chrismessina",
+            "avatarUrl": "https://ph-avatars.imgix.net/18280/d71888de-b44a-4005-9dde-d778c7a80b39.jpeg",
+            "product": null
+          },
+          "badges": [
+            "hunter"
+          ],
+          "url": "https://www.producthunt.com/products/lovable?comment=3082382#gptengineer-app",
+          "path": "/products/lovable?comment=3082382#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "gptengineer-app",
+            "name": "gptengineer.app"
+          },
+          "replies": [
+            {
+              "id": "3083733",
+              "parentId": "3082382",
+              "body": "Thanks for hunting us @chrismessina!\n\nThe story behind gptengineer.app is that we noticed that AI devtools miss the \"super fast feedback\" that you get when you ask for high level changes in plain english, see the full result instantly (not see the code), then correct the AI if it misunderstood anything.\n\nThis is what lead us to build gptengineer.app.\n\nEven as a developer, the flow of gptengineer.app is much faster in the initial prototyping stages. After prototyping is done and it's deployed, it's all backed by git. This means that human developers can also jump in, and push back to git to deploy their changes – while non-technical people keep doing changes with plain English.\n\nLooking forward to get feedback and input from the entire Product Hunt community!\n\nAlso, here is our discord:  <a href=\"https://discord.gg/ScRPRkvRTf\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://discord.gg/ScRPRkvRTf</a>\n\nI'll be here to answer any comments.",
+              "bodyHtml": "Thanks for hunting us <a href=\"https://www.producthunt.com/@chrismessina\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@chrismessina</a>!\n\nThe story behind gptengineer.app is that we noticed that AI devtools miss the \"super fast feedback\" that you get when you ask for high level changes in plain english, see the full result instantly (not see the code), then correct the AI if it misunderstood anything.\n\nThis is what lead us to build gptengineer.app.\n\nEven as a developer, the flow of gptengineer.app is much faster in the initial prototyping stages. After prototyping is done and it's deployed, it's all backed by git. This means that human developers can also jump in, and push back to git to deploy their changes – while non-technical people keep doing changes with plain English.\n\nLooking forward to get feedback and input from the entire Product Hunt community!\n\nAlso, here is our discord:  <a href=\"https://discord.gg/ScRPRkvRTf\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://discord.gg/ScRPRkvRTf</a>\n\nI'll be here to answer any comments.",
+              "createdAt": "2024-01-04T08:30:10-08:00",
+              "votesCount": 8,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=3083733#gptengineer-app",
+              "path": "/products/lovable?comment=3083733#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "gptengineer-app",
+                "name": "gptengineer.app"
+              }
+            },
+            {
+              "id": "3083930",
+              "parentId": "3082382",
+              "body": "@antonosika, Kudos on launching gptengineer.app! 🌟 You've bridged a crucial gap in AI development tools, introducing instant, plain-English feedback and seamless transition from AI prototyping to human-led development. A true milestone for both tech and non-tech innovators alike",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a>, Kudos on launching gptengineer.app! 🌟 You've bridged a crucial gap in AI development tools, introducing instant, plain-English feedback and seamless transition from AI prototyping to human-led development. A true milestone for both tech and non-tech innovators alike",
+              "createdAt": "2024-01-04T10:11:11-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2612084",
+                "name": "Joseph Abraham",
+                "username": "kjosephabraham",
+                "avatarUrl": "https://ph-avatars.imgix.net/2612084/2f42f4bb-96be-4692-8124-faf1eb4d52a0.png",
+                "product": null
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=3083930#gptengineer-app",
+              "path": "/products/lovable?comment=3083930#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "gptengineer-app",
+                "name": "gptengineer.app"
+              }
+            },
+            {
+              "id": "3094270",
+              "parentId": "3082382",
+              "body": "@chrismessina Hey Chris--This is actually something Cheat Layer supported 4 months ago, with instant publishing to github and Vercel <a href=\"https://youtu.be/ZsopVcNa68M\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://youtu.be/ZsopVcNa68M</a>\n\nThe latest version now has many more features that gptengineer.app like adding dalle3 images, stable diffusion videos, and selecting specific elements to edit them live: <a href=\"https://youtu.be/ujghCjfkY48\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://youtu.be/ujghCjfkY48</a>",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@chrismessina\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@chrismessina</a> Hey Chris--This is actually something Cheat Layer supported 4 months ago, with instant publishing to github and Vercel <a href=\"https://youtu.be/ZsopVcNa68M\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://youtu.be/ZsopVcNa68M</a>\n\nThe latest version now has many more features that gptengineer.app like adding dalle3 images, stable diffusion videos, and selecting specific elements to edit them live: <a href=\"https://youtu.be/ujghCjfkY48\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://youtu.be/ujghCjfkY48</a>",
+              "createdAt": "2024-01-09T05:18:27-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "1618747",
+                "name": "Rohan Arun",
+                "username": "rohan_arun1",
+                "avatarUrl": "https://ph-avatars.imgix.net/1618747/73d270b3-9692-4977-9d9d-9d5d486d9f23.jpeg",
+                "product": {
+                  "id": "526064",
+                  "name": "Cheat Layer",
+                  "slug": "cheat-layer"
+                }
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=3094270#gptengineer-app",
+              "path": "/products/lovable?comment=3094270#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "gptengineer-app",
+                "name": "gptengineer.app"
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "Mw"
+        },
+        {
+          "id": "3083357",
+          "body": "A great product with numerous possibilities for use. Congrats on the launch! 👏",
+          "bodyHtml": "A great product with numerous possibilities for use. Congrats on the launch! 👏",
+          "createdAt": "2024-01-04T05:50:47-08:00",
+          "votesCount": 4,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "2732310",
+            "name": "Alex Gavril",
+            "username": "alex_gavril1",
+            "avatarUrl": "https://ph-avatars.imgix.net/2732310/fe9ed184-9267-4e3d-b040-4b8c4adf8af9.png",
+            "product": {
+              "id": "534683",
+              "name": "PROCESIO",
+              "slug": "procesio"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3083357#gptengineer-app",
+          "path": "/products/lovable?comment=3083357#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "gptengineer-app",
+            "name": "gptengineer.app"
+          },
+          "replies": [
+            {
+              "id": "3083754",
+              "parentId": "3083357",
+              "body": "Thanks @alex_gavril1 !",
+              "bodyHtml": "Thanks <a href=\"https://www.producthunt.com/@alex_gavril1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@alex_gavril1</a> !",
+              "createdAt": "2024-01-04T08:37:48-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=3083754#gptengineer-app",
+              "path": "/products/lovable?comment=3083754#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "gptengineer-app",
+                "name": "gptengineer.app"
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "3083365",
+          "body": "Grats on the launch! Would love to see some examples of what was made using this :)",
+          "bodyHtml": "Grats on the launch! Would love to see some examples of what was made using this :)",
+          "createdAt": "2024-01-04T05:52:32-08:00",
+          "votesCount": 3,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "4506344",
+            "name": "Bren Kinfa 💎 SaaS Gems",
+            "username": "brenkinfa",
+            "avatarUrl": "https://ph-avatars.imgix.net/4506344/f8b28310-2db4-49e7-9d62-86225b27a1cd.png",
+            "product": {
+              "id": "516883",
+              "name": "SaaS AI Tools",
+              "slug": "saas-ai-tools"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3083365#gptengineer-app",
+          "path": "/products/lovable?comment=3083365#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "gptengineer-app",
+            "name": "gptengineer.app"
+          },
+          "replies": [
+            {
+              "id": "3083737",
+              "parentId": "3083365",
+              "body": "Thanks @brenkinfa !\n\nCheck out our discord for examples:\n<a href=\"https://discord.gg/ScRPRkvRTf\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://discord.gg/ScRPRkvRTf</a>\n\n\nLooking forward to your feedback using it.",
+              "bodyHtml": "Thanks <a href=\"https://www.producthunt.com/@brenkinfa\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@brenkinfa</a> !\n\nCheck out our discord for examples:\n<a href=\"https://discord.gg/ScRPRkvRTf\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://discord.gg/ScRPRkvRTf</a>\n\n\nLooking forward to your feedback using it.",
+              "createdAt": "2024-01-04T08:32:03-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=3083737#gptengineer-app",
+              "path": "/products/lovable?comment=3083737#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "gptengineer-app",
+                "name": "gptengineer.app"
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "3082486",
+          "body": "It looks like the Hunt product is broken :) Are you launching alone today? It doesn't show us &gt;_&lt; Anyway, congratulations on the launch!",
+          "bodyHtml": "It looks like the Hunt product is broken :) Are you launching alone today? It doesn't show us &gt;_&lt; Anyway, congratulations on the launch!",
+          "createdAt": "2024-01-04T00:14:10-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "5340025",
+            "name": "Igor Muravyev",
+            "username": "igrm",
+            "avatarUrl": "https://ph-avatars.imgix.net/5340025/e56c3f0c-994f-4dcf-8d4a-ac4effdc7c7b.jpeg",
+            "product": {
+              "id": "542469",
+              "name": "EQO",
+              "slug": "eqo"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3082486#gptengineer-app",
+          "path": "/products/lovable?comment=3082486#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "gptengineer-app",
+            "name": "gptengineer.app"
+          },
+          "replies": [
+            {
+              "id": "3082633",
+              "parentId": "3082486",
+              "body": "@igrm Look at the \"filter\" they put on the top of the page, only show the \"featured\" if you are no featured you need to uncheck that \"filter\" it's kind of annoying",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@igrm\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@igrm</a> Look at the \"filter\" they put on the top of the page, only show the \"featured\" if you are no featured you need to uncheck that \"filter\" it's kind of annoying",
+              "createdAt": "2024-01-04T01:07:23-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "5929501",
+                "name": "Antonio Gonzalez",
+                "username": "chill_eno",
+                "avatarUrl": "https://ph-avatars.imgix.net/5929501/7990979c-e0ea-4393-8c7b-82390d02c0bd.png",
+                "product": {
+                  "id": "572071",
+                  "name": "Reaction Free",
+                  "slug": "reaction-free"
+                }
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=3082633#gptengineer-app",
+              "path": "/products/lovable?comment=3082633#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "gptengineer-app",
+                "name": "gptengineer.app"
+              }
+            },
+            {
+              "id": "3083745",
+              "parentId": "3082486",
+              "body": "Thanks @igrm and @chill_eno \n\nDidn't know about the hunt until i got a DM!\n\nAnything we can do to make it not have this filter @chill_eno?",
+              "bodyHtml": "Thanks <a href=\"https://www.producthunt.com/@igrm\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@igrm</a> and <a href=\"https://www.producthunt.com/@chill_eno\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@chill_eno</a> \n\nDidn't know about the hunt until i got a DM!\n\nAnything we can do to make it not have this filter <a href=\"https://www.producthunt.com/@chill_eno\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@chill_eno</a>?",
+              "createdAt": "2024-01-04T08:34:50-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=3083745#gptengineer-app",
+              "path": "/products/lovable?comment=3083745#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "gptengineer-app",
+                "name": "gptengineer.app"
+              }
+            },
+            {
+              "id": "3083765",
+              "parentId": "3082486",
+              "body": "@igrm @antonosika your project has to be featured by Product Hunt team. but no one knows how that's works. There are a lot of discussions about it but product hunt team are not answering something clear... So all the info I got are all asumptions of the discussion I've readed. Long story short you need to be featured but I don't know how to make it happen :( My product today is not showing and no reasons about it lol",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@igrm\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@igrm</a> <a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> your project has to be featured by Product Hunt team. but no one knows how that's works. There are a lot of discussions about it but product hunt team are not answering something clear... So all the info I got are all asumptions of the discussion I've readed. Long story short you need to be featured but I don't know how to make it happen :( My product today is not showing and no reasons about it lol",
+              "createdAt": "2024-01-04T08:42:17-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "5929501",
+                "name": "Antonio Gonzalez",
+                "username": "chill_eno",
+                "avatarUrl": "https://ph-avatars.imgix.net/5929501/7990979c-e0ea-4393-8c7b-82390d02c0bd.png",
+                "product": {
+                  "id": "572071",
+                  "name": "Reaction Free",
+                  "slug": "reaction-free"
+                }
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=3083765#gptengineer-app",
+              "path": "/products/lovable?comment=3083765#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "gptengineer-app",
+                "name": "gptengineer.app"
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "Mw"
+        },
+        {
+          "id": "3083301",
+          "body": "GPT Engineer was the first AI based coding tool that succesfully created a cloaking script for me to use with Google ads haha. Havent checked your website yet, Im about to go in and signup, this can only be quality! Good luck with this app!",
+          "bodyHtml": "GPT Engineer was the first AI based coding tool that succesfully created a cloaking script for me to use with Google ads haha. Havent checked your website yet, Im about to go in and signup, this can only be quality! Good luck with this app!",
+          "createdAt": "2024-01-04T05:35:18-08:00",
+          "votesCount": 2,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "5611251",
+            "name": "Zeki",
+            "username": "zekighulam",
+            "avatarUrl": "https://ph-avatars.imgix.net/5611251/original.png",
+            "product": {
+              "id": "565783",
+              "name": "Cartfuls",
+              "slug": "cartfuls"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3083301#gptengineer-app",
+          "path": "/products/lovable?comment=3083301#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "3083736",
+              "parentId": "3083301",
+              "body": "Thanks @zekighulam !\n\nLooking forward to your feedback along the way.\n\nAppreciate the feedback.",
+              "bodyHtml": "Thanks <a href=\"https://www.producthunt.com/@zekighulam\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@zekighulam</a> !\n\nLooking forward to your feedback along the way.\n\nAppreciate the feedback.",
+              "createdAt": "2024-01-04T08:31:25-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=3083736#gptengineer-app",
+              "path": "/products/lovable?comment=3083736#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "",
+                "name": ""
+              }
+            },
+            {
+              "id": "3084653",
+              "parentId": "3083301",
+              "body": "@antonosika I'm currently working on a coding project. If you'd like, I can provide a real review for this product. The job would require a GPT-engineer to review my current codebase and further develop it. I'm not a coder; I know some HTML and CSS, but with this basic knowledge, I've been able to use GPT coding to piece together things I never thought were possible. Now, I'm undertaking the most challenging task so far (for me). Let's see if the GPT-engineer has what it takes to make a product SaaS-ready and get it approved on Codecanyon!",
+              "bodyHtml": "<a href=\"https://www.producthunt.com/@antonosika\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antonosika</a> I'm currently working on a coding project. If you'd like, I can provide a real review for this product. The job would require a GPT-engineer to review my current codebase and further develop it. I'm not a coder; I know some HTML and CSS, but with this basic knowledge, I've been able to use GPT coding to piece together things I never thought were possible. Now, I'm undertaking the most challenging task so far (for me). Let's see if the GPT-engineer has what it takes to make a product SaaS-ready and get it approved on Codecanyon!",
+              "createdAt": "2024-01-04T23:09:59-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "5611251",
+                "name": "Zeki",
+                "username": "zekighulam",
+                "avatarUrl": "https://ph-avatars.imgix.net/5611251/original.png",
+                "product": {
+                  "id": "565783",
+                  "name": "Cartfuls",
+                  "slug": "cartfuls"
+                }
+              },
+              "badges": [],
+              "url": "https://www.producthunt.com/products/lovable?comment=3084653#gptengineer-app",
+              "path": "/products/lovable?comment=3084653#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "Mg"
+        },
+        {
+          "id": "3083510",
+          "body": "Looks awesome - would love to try!",
+          "bodyHtml": "Looks awesome - would love to try!",
+          "createdAt": "2024-01-04T06:42:27-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "2710184",
+            "name": "Salih Mujcic",
+            "username": "salih_mujcic",
+            "avatarUrl": "https://ph-avatars.imgix.net/2710184/c54de170-850a-48eb-91e3-5aa2ae27bce1.png",
+            "product": {
+              "id": "438099",
+              "name": "Traitstack",
+              "slug": "traitstack"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3083510#gptengineer-app",
+          "path": "/products/lovable?comment=3083510#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "3083755",
+              "parentId": "3083510",
+              "body": "Thanks @salih_mujcic ! Stay tuned, we're currently in alpha.",
+              "bodyHtml": "Thanks <a href=\"https://www.producthunt.com/@salih_mujcic\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@salih_mujcic</a> ! Stay tuned, we're currently in alpha.",
+              "createdAt": "2024-01-04T08:38:40-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=3083755#gptengineer-app",
+              "path": "/products/lovable?comment=3083755#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "3082606",
+          "body": "This is such a fantastic concept! I'm curious to know if gptengineer.app supports frameworks like React or Angular for building web apps. Additionally, I would love to see some examples of the kind of web apps that have been built using this tool. Keep up the great work!",
+          "bodyHtml": "This is such a fantastic concept! I'm curious to know if gptengineer.app supports frameworks like React or Angular for building web apps. Additionally, I would love to see some examples of the kind of web apps that have been built using this tool. Keep up the great work!",
+          "createdAt": "2024-01-04T00:56:36-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "2567234",
+            "name": "Dmytro Semyrian",
+            "username": "dmytrosem",
+            "avatarUrl": "https://ph-avatars.imgix.net/2567234/19f3253d-90c3-4efa-9c07-5ab6c99f9394.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3082606#gptengineer-app",
+          "path": "/products/lovable?comment=3082606#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "3083748",
+              "parentId": "3082606",
+              "body": "Thanks @dmytrosem !\n\nWe're committed to use industry standard and best practices in generated code.\n\nIt's based on React with the best component libraries right now.\n\n\nCheck out our discord for what people are building:\n<a href=\"https://discord.gg/ScRPRkvRTf\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://discord.gg/ScRPRkvRTf</a>",
+              "bodyHtml": "Thanks <a href=\"https://www.producthunt.com/@dmytrosem\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@dmytrosem</a> !\n\nWe're committed to use industry standard and best practices in generated code.\n\nIt's based on React with the best component libraries right now.\n\n\nCheck out our discord for what people are building:\n<a href=\"https://discord.gg/ScRPRkvRTf\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://discord.gg/ScRPRkvRTf</a>",
+              "createdAt": "2024-01-04T08:36:56-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=3083748#gptengineer-app",
+              "path": "/products/lovable?comment=3083748#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "3083141",
+          "body": "Seems like a great product. Excited to see what comes next. Congratz on the launch and good luck today! :)",
+          "bodyHtml": "Seems like a great product. Excited to see what comes next. Congratz on the launch and good luck today! :)",
+          "createdAt": "2024-01-04T04:34:37-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "3808818",
+            "name": "Davor Kolenc",
+            "username": "davor_kolenc",
+            "avatarUrl": "https://ph-avatars.imgix.net/3808818/1d25a0db-9f3f-4e93-907e-3997e534f61c.png",
+            "product": {
+              "id": "568651",
+              "name": "Aspen - API Testing for macOS",
+              "slug": "aspen-api-testing-for-macos"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3083141#gptengineer-app",
+          "path": "/products/lovable?comment=3083141#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "3083734",
+              "parentId": "3083141",
+              "body": "Thanks @davor_kolenc ! Looking forward to your feedback.",
+              "bodyHtml": "Thanks <a href=\"https://www.producthunt.com/@davor_kolenc\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@davor_kolenc</a> ! Looking forward to your feedback.",
+              "createdAt": "2024-01-04T08:30:28-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=3083734#gptengineer-app",
+              "path": "/products/lovable?comment=3083734#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "3083200",
+          "body": "The potential for gptengineer.app in the development community is huge. Great to see innovative tools making prototyping accessible. Well done!",
+          "bodyHtml": "The potential for gptengineer.app in the development community is huge. Great to see innovative tools making prototyping accessible. Well done!",
+          "createdAt": "2024-01-04T04:55:43-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "4264459",
+            "name": "Altiam Kabir",
+            "username": "altiamkabir",
+            "avatarUrl": "https://ph-avatars.imgix.net/4264459/649a830d-3542-47f1-90a1-e00d54a136ad.png",
+            "product": {
+              "id": "548185",
+              "name": "Free Access To 9000+ AI Tools Database",
+              "slug": "free-access-to-9000-ai-tools-database"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3083200#gptengineer-app",
+          "path": "/products/lovable?comment=3083200#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "3083735",
+              "parentId": "3083200",
+              "body": "Thanks @altiamkabir! Looking forward to your feedback along the way.",
+              "bodyHtml": "Thanks <a href=\"https://www.producthunt.com/@altiamkabir\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@altiamkabir</a>! Looking forward to your feedback along the way.",
+              "createdAt": "2024-01-04T08:31:04-08:00",
+              "votesCount": 0,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=3083735#gptengineer-app",
+              "path": "/products/lovable?comment=3083735#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "3083350",
+          "body": "Congrats on the launch and best of luck !",
+          "bodyHtml": "Congrats on the launch and best of luck !",
+          "createdAt": "2024-01-04T05:49:27-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "6540855",
+            "name": "Maha Moussaid El Idrissi",
+            "username": "maha_moussaid",
+            "avatarUrl": "https://ph-avatars.imgix.net/6540855/6ed15985-b5bf-4c71-b398-f2f85f2f1cc0.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3083350#gptengineer-app",
+          "path": "/products/lovable?comment=3083350#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "3083759",
+              "parentId": "3083350",
+              "body": "Thanks @maha_moussaid ! \n\nLooking forward to your feedback using it.",
+              "bodyHtml": "Thanks <a href=\"https://www.producthunt.com/@maha_moussaid\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@maha_moussaid</a> ! \n\nLooking forward to your feedback using it.",
+              "createdAt": "2024-01-04T08:39:16-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=3083759#gptengineer-app",
+              "path": "/products/lovable?comment=3083759#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "3083966",
+          "body": "This is a huge gamechanger for those already in the industry and those who are interested but overwhelmed. Great work!",
+          "bodyHtml": "This is a huge gamechanger for those already in the industry and those who are interested but overwhelmed. Great work!",
+          "createdAt": "2024-01-04T10:34:51-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "6549052",
+            "name": "Jay Lautner",
+            "username": "jaylautner",
+            "avatarUrl": "https://ph-avatars.imgix.net/6549052/original.png",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3083966#gptengineer-app",
+          "path": "/products/lovable?comment=3083966#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "3084042",
+          "body": "Congrats on the launch! Looking forward to getting access soon so that I can give it a spin myself. In the meantime I will check out the Discord channel!",
+          "bodyHtml": "Congrats on the launch! Looking forward to getting access soon so that I can give it a spin myself. In the meantime I will check out the Discord channel!",
+          "createdAt": "2024-01-04T10:58:42-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "6549191",
+            "name": "Ben G",
+            "username": "btg90",
+            "avatarUrl": "https://ph-avatars.imgix.net/6549191/original.jpeg",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3084042#gptengineer-app",
+          "path": "/products/lovable?comment=3084042#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "3084221",
+          "body": "Congratz on the launch! Looking forward to finaly try it! :D",
+          "bodyHtml": "Congratz on the launch! Looking forward to finaly try it! :D",
+          "createdAt": "2024-01-04T13:57:44-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "1103626",
+            "name": "Jens Polomski",
+            "username": "jensger",
+            "avatarUrl": "https://ph-avatars.imgix.net/1103626/57b0676f-d60c-47b9-aaa9-2495eeea5482.jpeg",
+            "product": {
+              "id": "504073",
+              "name": "Follower Insights for LinkedIn",
+              "slug": "follower-insights-for-linkedin"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3084221#gptengineer-app",
+          "path": "/products/lovable?comment=3084221#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        },
+        {
+          "id": "3084470",
+          "body": "Congratulations to the gptengineer.app team on the incredible launch on Producthunt! You're definitely revolutionizing how web apps are built and deployed. An interesting suggestion might be to consider integrating a visual aid or graphic interface in the process, so non-tech users can better understand the architecture of their app as they iterate in plain English. Looking forward to seeing your continuous growth and success!",
+          "bodyHtml": "Congratulations to the gptengineer.app team on the incredible launch on Producthunt! You're definitely revolutionizing how web apps are built and deployed. An interesting suggestion might be to consider integrating a visual aid or graphic interface in the process, so non-tech users can better understand the architecture of their app as they iterate in plain English. Looking forward to seeing your continuous growth and success!",
+          "createdAt": "2024-01-04T20:49:09-08:00",
+          "votesCount": 0,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "3302789",
+            "name": "Manmohit Grewal",
+            "username": "manmohit",
+            "avatarUrl": "https://ph-avatars.imgix.net/3302789/16b2a27d-ef94-4449-92b5-b96982012c43.gif",
+            "product": {
+              "id": "545963",
+              "name": "CompanyGPT",
+              "slug": "companygpt"
+            }
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3084470#gptengineer-app",
+          "path": "/products/lovable?comment=3084470#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [
+            {
+              "id": "3086572",
+              "parentId": "3084470",
+              "body": "Thanks @manmohit !",
+              "bodyHtml": "Thanks <a href=\"https://www.producthunt.com/@manmohit\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@manmohit</a> !",
+              "createdAt": "2024-01-05T14:15:49-08:00",
+              "votesCount": 1,
+              "isPinned": false,
+              "isSticky": false,
+              "author": {
+                "id": "2713059",
+                "name": "Anton Osika",
+                "username": "antonosika",
+                "avatarUrl": "https://ph-avatars.imgix.net/2713059/537ef5b9-ce87-44d8-9ab3-d8248c2d2771.jpeg",
+                "product": {
+                  "id": "566141",
+                  "name": "Lovable",
+                  "slug": "lovable"
+                }
+              },
+              "badges": [
+                "maker"
+              ],
+              "url": "https://www.producthunt.com/products/lovable?comment=3086572#gptengineer-app",
+              "path": "/products/lovable?comment=3086572#gptengineer-app",
+              "launchInfo": {
+                "id": "432826",
+                "slug": "",
+                "name": ""
+              }
+            }
+          ],
+          "hasMoreReplies": false,
+          "repliesEndCursor": "MQ"
+        },
+        {
+          "id": "3108559",
+          "body": "Very nice product",
+          "bodyHtml": "Very nice product",
+          "createdAt": "2024-01-14T00:50:15-08:00",
+          "votesCount": 1,
+          "isPinned": false,
+          "isSticky": false,
+          "repliesCount": 0,
+          "author": {
+            "id": "5018489",
+            "name": "Ogechukwu Ugwuoke",
+            "username": "ogechukwu_ugwuoke",
+            "avatarUrl": "https://ph-avatars.imgix.net/5018489/original.png",
+            "product": null
+          },
+          "badges": [],
+          "url": "https://www.producthunt.com/products/lovable?comment=3108559#gptengineer-app",
+          "path": "/products/lovable?comment=3108559#gptengineer-app",
+          "launchInfo": {
+            "id": "432826",
+            "slug": "",
+            "name": ""
+          },
+          "replies": [],
+          "hasMoreReplies": false,
+          "repliesEndCursor": null
+        }
+      ],
+      "commentCount": 15
+    }
+  ]
+}

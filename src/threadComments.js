@@ -242,53 +242,56 @@ const threadComments = {
    * @param {Object} options - Options for fetching comments
    * @param {number} [options.limit] - Maximum number of comments to fetch per thread
    * @param {string} [options.outputDir] - Directory to save comment data
-   * @returns {Promise<Object>} - Object mapping thread slugs to their comments
+   * @returns {Promise<Object>} - Object with threadsWithComments mapping thread slugs to their comments
    */
   async fetchCommentsForThreads(forumSlug, threads, options = {}) {
     try {
       console.log(`\n===== FETCHING COMMENTS FOR ${threads.length} THREADS =====\n`);
       
-      const { limit = 10, outputDir = path.join(process.cwd(), 'test_output') } = options;
+      const threadsWithComments = {};
+      let currentThreadIndex = 0;
       
-      // Create output directory if it doesn't exist
-      if (!fs.existsSync(outputDir)) {
-        fs.mkdirSync(outputDir, { recursive: true });
-      }
-      
-      const allCommentResponses = [];
-      const threadResults = {};
-      
-      for (let i = 0; i < threads.length; i++) {
-        const thread = threads[i];
-        console.log(`\n----- Fetching comments for thread [${i+1}/${threads.length}]: ${thread.title || thread.slug} -----`);
-        
-        const commentsResult = await this.fetchComments(forumSlug, thread.slug, {
-          limit, 
-          outputDir
-        });
-        
-        threadResults[thread.slug] = commentsResult;
-        
-        if (commentsResult.rawResponses.length > 0) {
-          allCommentResponses.push(...commentsResult.rawResponses);
+      for (const thread of threads) {
+        currentThreadIndex++;
+        // Skip threads without a slug
+        if (!thread.slug) {
+          console.log(`Thread #${currentThreadIndex} missing slug, skipping...`);
+          continue;
         }
         
-        // Add a delay between requests to avoid rate limiting
-        if (i < threads.length - 1) {
-          console.log(`Waiting ${this.requestDelay}ms before next comment request...\n`);
+        console.log(`\nProcessing thread ${currentThreadIndex}/${threads.length}: "${thread.title}" (${thread.slug})`);
+        
+        // Get the thread slug and fetch comments
+        const threadSlug = thread.slug;
+        const result = await this.fetchComments(forumSlug, threadSlug, options);
+        
+        // Store the result in our map
+        threadsWithComments[threadSlug] = result;
+        
+        // Apply delay before next thread
+        if (currentThreadIndex < threads.length) {
+          console.log(`Waiting ${this.requestDelay}ms before next thread...`);
           await this.sleep(this.requestDelay);
         }
       }
       
-      // Save all comments to a consolidated file
-      const allCommentsFile = path.join(outputDir, 'all_thread_comments.json');
-      fs.writeFileSync(allCommentsFile, JSON.stringify(allCommentResponses, null, 2));
-      console.log(`\n===== SAVED ALL COMMENT RESPONSES TO: ${allCommentsFile} =====\n`);
+      console.log(`\n===== COMPLETED FETCHING COMMENTS FOR ${Object.keys(threadsWithComments).length} THREADS =====\n`);
       
-      return threadResults;
+      // Create a consolidated output file with all thread comments
+      const { outputDir = path.join(process.cwd(), 'test_output') } = options;
+      
+      if (!fs.existsSync(outputDir)) {
+        fs.mkdirSync(outputDir, { recursive: true });
+      }
+      
+      const consolidatedOutputFile = path.join(outputDir, `all_threads_comments.json`);
+      fs.writeFileSync(consolidatedOutputFile, JSON.stringify(threadsWithComments, null, 2));
+      console.log(`\n===== SAVED CONSOLIDATED THREAD COMMENTS TO: ${consolidatedOutputFile} =====\n`);
+      
+      return { threadsWithComments };
     } catch (error) {
       console.error('ERROR FETCHING COMMENTS FOR THREADS:', error.message);
-      throw error;
+      return { threadsWithComments: {} };
     }
   },
 
@@ -662,6 +665,79 @@ const threadComments = {
       console.error(`Error fetching all replies for comment ${comment.id}:`, error.message);
       return comment.replies || [];
     }
+  },
+
+  /**
+   * Format comment data according to project requirements
+   * @param {Array} comments - Array of parsed comments
+   * @returns {Array} - Formatted comments
+   */
+  formatComments(comments) {
+    if (!comments || !Array.isArray(comments)) {
+      return [];
+    }
+
+    return comments.map(comment => {
+      // Format the date in YYYY-MM-DD format if possible
+      let formattedDate = comment.createdAt;
+      try {
+        const dateObj = new Date(comment.createdAt);
+        if (!isNaN(dateObj.getTime())) {
+          formattedDate = dateObj.toISOString().split('T')[0]; // YYYY-MM-DD
+        }
+      } catch (e) {
+        // Keep original date format if parsing fails
+      }
+
+      // Format the comment according to requirements
+      const formattedComment = {
+        id: comment.id,
+        author: comment.author.username,
+        authorDetails: {
+          id: comment.author.id,
+          name: comment.author.name,
+          url: comment.author.url,
+          avatarUrl: comment.author.avatarUrl
+        },
+        content: comment.body,
+        date: formattedDate,
+        upvotesCount: comment.votesCount || 0,
+        replyCount: (comment.replies && comment.replies.length) || 0
+      };
+
+      // Format and add replies if they exist
+      if (comment.replies && comment.replies.length > 0) {
+        formattedComment.replies = this.formatComments(comment.replies);
+      } else {
+        formattedComment.replies = [];
+      }
+
+      return formattedComment;
+    });
+  },
+
+  /**
+   * Update thread objects with formatted comments
+   * @param {Array} threads - Array of thread objects
+   * @param {Object} threadCommentsMap - Map of thread slugs to comments
+   * @returns {Array} - Updated thread objects with formatted comments
+   */
+  updateThreadsWithComments(threads, threadCommentsMap) {
+    if (!threads || !Array.isArray(threads)) {
+      return [];
+    }
+
+    return threads.map(thread => {
+      const threadSlug = thread.slug;
+      const comments = threadCommentsMap[threadSlug] || [];
+      
+      // Format the comments and add them to the thread
+      const formattedComments = this.formatComments(comments);
+      return {
+        ...thread,
+        comments: formattedComments
+      };
+    });
   },
 };
 

@@ -229,11 +229,11 @@ const productReviews = {
         url: formattedUrl,
         isVerified: review.isVerified || false,
         // Only relevant interaction data
-        commentsCount: review.commentsCount || 0,
-        hasVoted: review.hasVoted || false
+        commentsCount: review.commentsCount || 0
       };
     });
   },
 };
 
 module.exports = productReviews; 
+

@@ -2,6 +2,7 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 require('dotenv').config();
+const launchComments = require('./launchComments');
 
 /**
  * Functions for fetching product launches from Product Hunt
@@ -217,13 +218,114 @@ const productLaunches = {
       };
     });
   },
+
+  /**
+   * Fetch launches for a product and their comments
+   * @param {string} productSlug - The product slug (e.g., "lovable")
+   * @param {Object} options - Options for fetching launches
+   * @param {number} [options.limit] - Maximum number of launches to fetch (null for all)
+   * @param {string} [options.order] - Order of launches (default: "DATE")
+   * @param {number} [options.commentsLimit] - Maximum number of comments to fetch per launch (null for all)
+   * @param {boolean} [options.fetchComments] - Whether to fetch comments for launches (default: false)
+   * @returns {Promise<Object>} - Object containing launches and their comments
+   */
+  async fetchLaunchesWithComments(productSlug, options = {}) {
+    try {
+      const { 
+        limit = null,
+        order = "DATE",
+        commentsLimit = 100,
+        fetchComments = true
+      } = options;
+      
+      // First fetch the launches
+      const launches = await this.fetchLaunches(productSlug, { limit, order });
+      
+      // If no comments requested or no launches found, return just the launches
+      if (!fetchComments || launches.length === 0) {
+        return {
+          product: productSlug,
+          launchCount: launches.length,
+          launches
+        };
+      }
+      
+      console.log(`\n===== FETCHING COMMENTS FOR ${launches.length} LAUNCHES =====\n`);
+      
+      // Create directory for output if it doesn't exist
+      const outputDir = path.join(process.cwd(), 'test_output');
+      if (!fs.existsSync(outputDir)) {
+        fs.mkdirSync(outputDir, { recursive: true });
+      }
+      
+      // Map to store comments by launch slug
+      const launchCommentsMap = {};
+      
+      // Fetch comments for each launch
+      for (let i = 0; i < launches.length; i++) {
+        const launch = launches[i];
+        console.log(`\n----- Fetching comments for launch ${i+1}/${launches.length}: ${launch.slug} -----`);
+        
+        // Use the launchComments module to fetch comments
+        try {
+          const commentsResult = await launchComments.fetchLaunchComments(launch.slug, {
+            limit: commentsLimit,
+            outputDir
+          });
+          
+          // Store the parsed comments
+          launchCommentsMap[launch.slug] = commentsResult.parsedComments || [];
+          
+          // Add comments to the launch object
+          launches[i].comments = commentsResult.parsedComments || [];
+          launches[i].commentCount = commentsResult.parsedComments?.length || 0;
+          
+          console.log(`----- Fetched ${launches[i].commentCount} comments for ${launch.slug} -----\n`);
+          
+          // Apply delay before next launch if needed
+          if (i < launches.length - 1) {
+            console.log(`Waiting ${this.requestDelay * 2}ms before fetching next launch comments...\n`);
+            await this.sleep(this.requestDelay * 2);
+          }
+        } catch (error) {
+          console.error(`ERROR FETCHING COMMENTS FOR LAUNCH ${launch.slug}:`, error.message);
+          // Continue with next launch even if this one fails
+          launches[i].comments = [];
+          launches[i].commentCount = 0;
+        }
+      }
+      
+      console.log(`\n===== COMPLETED: FETCHED COMMENTS FOR ${launches.length} LAUNCHES =====\n`);
+      
+      // Save the combined data to a file
+      const combinedFile = path.join(outputDir, `launches_with_comments_${productSlug}.json`);
+      const formattedData = {
+        product: productSlug,
+        launchCount: launches.length,
+        launches: launches
+      };
+      
+      fs.writeFileSync(combinedFile, JSON.stringify(formattedData, null, 2));
+      console.log(`Saved launches with comments to: ${combinedFile}`);
+      
+      return formattedData;
+    } catch (error) {
+      console.error('ERROR FETCHING LAUNCHES WITH COMMENTS:', error.message);
+      throw error;
+    }
+  },
 };
 
 module.exports = productLaunches; 
 
 const test = async () => {
-  const launches = await productLaunches.fetchLaunches('lovable', { limit: 10 });
-  console.log(launches);
+  // Test the new fetchLaunchesWithComments method
+  const launchesWithComments = await productLaunches.fetchLaunchesWithComments('lovable', { 
+    limit: 2,
+    commentsLimit: 10
+  });
+  console.log(`Fetched ${launchesWithComments.launchCount} launches with comments for ${launchesWithComments.product}`);
+  console.log(launchesWithComments);
 }
 
 test();
