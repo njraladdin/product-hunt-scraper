@@ -6,7 +6,7 @@ const productDetails = require('./productDetails');
 const productMakers = require('./productMakers');
 
 // Configuration
-const TEST_MODE = true; // Set to false for full production run
+const TEST_MODE = false; // Set to false for full production run
 
 /**
  * Main function to run the Product Hunt scraper
@@ -14,7 +14,7 @@ const TEST_MODE = true; // Set to false for full production run
 async function main() {
   try {
     // Define the product slugs we want to fetch data for
-    const productSlugs = ['lovable'];
+    const productSlugs = ['bolt-new', 'lovable', 'base44'];
     
     for (const productSlug of productSlugs) {
       console.log(`\n========== PROCESSING ${productSlug} ==========\n`);
