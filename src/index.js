@@ -17,20 +17,20 @@ async function main() {
       console.log(`\n========== PROCESSING ${productSlug} ==========\n`);
 
       // // Fetch product reviews
-      // console.log(`Starting to fetch reviews for ${productSlug}...`);
-      // const reviews = await productReviews.fetchReviews(productSlug, { limit: 30 });
-      // console.log(`Fetched a total of ${reviews.length} reviews for ${productSlug}`);
+      console.log(`Starting to fetch reviews for ${productSlug}...`);
+      const reviews = await productReviews.fetchReviews(productSlug, { limit: 30 });
+      console.log(`Fetched a total of ${reviews.length} reviews for ${productSlug}`);
       
       // // Save reviews to output directory
-      // utils.saveToOutputFolder(reviews, productSlug, 'reviews');
+      utils.saveToOutputFolder(reviews, productSlug, 'reviews');
       
       // // Fetch product forum threads
-      // console.log(`Starting to fetch forum threads for ${productSlug}...`);
-      // const threads = await forumThreads.fetchAndFormatThreads(productSlug, { limit: 20, commentsLimit: 10 });
-      // console.log(`Fetched a total of ${threads.threadCount} forum threads for ${productSlug}`);
+      console.log(`Starting to fetch forum threads for ${productSlug}...`);
+      const threads = await forumThreads.fetchAndFormatThreads(productSlug, { limit: 20, commentsLimit: 10 });
+      console.log(`Fetched a total of ${threads.threadCount} forum threads for ${productSlug}`);
       
       // // Save threads to output directory
-      // utils.saveToOutputFolder(threads, productSlug, 'threads');
+      utils.saveToOutputFolder(threads, productSlug, 'threads');
       
       // Fetch product launches
       console.log(`Starting to fetch launches for ${productSlug}...`);
